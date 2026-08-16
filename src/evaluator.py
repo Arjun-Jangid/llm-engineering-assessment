@@ -1,5 +1,6 @@
 import json
-from retriever import retrieve
+# from retriever import retrieve
+from hybrid_retriever import create_embeddings, retrieve
 
 
 def load_json(path):
@@ -12,11 +13,13 @@ def evaluate(eval_data, records):
     total = len(eval_data)
 
     results = []
+    record_embeddings = create_embeddings(records)
 
     for item in eval_data:
         retrieved_record, score = retrieve(
             item["question"],
-            records
+            records,
+            record_embeddings
         )
 
         is_correct = (
@@ -34,11 +37,11 @@ def evaluate(eval_data, records):
                 retrieved_record["record_id"]
                 if retrieved_record else None
             ),
-            "score": score,
+            "score": float(score),
             "correct": is_correct,
         })
 
-    with open("outputs/baseline_eval_output.json", "w") as file:
+    with open("outputs/hybrid_eval_output.json", "w") as file:
         json.dump(results, file, indent=2)
 
     accuracy = correct / total

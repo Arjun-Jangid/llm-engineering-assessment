@@ -1,0 +1,702 @@
+[
+  {
+    "question": "What was the stock level after the 300-unit shipment from Prime Logistics on 2026-05-12?",
+    "expected": "R00328",
+    "retrieved": "R00328",
+    "score": 20.568706512451172,
+    "correct": true
+  },
+  {
+    "question": "What was the stock level after the 300-unit shipment from Meridian Supplies on 2026-06-17?",
+    "expected": "R00058",
+    "retrieved": "R00058",
+    "score": 20.11277198791504,
+    "correct": true
+  },
+  {
+    "question": "What was the stock level after the 500-unit shipment from Prime Logistics on 2026-01-21?",
+    "expected": "R00013",
+    "retrieved": "R00013",
+    "score": 20.464771270751953,
+    "correct": true
+  },
+  {
+    "question": "What was the stock level after the 300-unit shipment from ABC Traders on 2026-05-05?",
+    "expected": "R00141",
+    "retrieved": "R00141",
+    "score": 20.393905639648438,
+    "correct": true
+  },
+  {
+    "question": "What was the stock level after the 200-unit shipment from ABC Traders on 2026-05-02?",
+    "expected": "R00126",
+    "retrieved": "R00126",
+    "score": 20.394580841064453,
+    "correct": true
+  },
+  {
+    "question": "What was the stock level after the 50-unit shipment from ABC Traders on 2026-05-28?",
+    "expected": "R00115",
+    "retrieved": "R00115",
+    "score": 20.294795989990234,
+    "correct": true
+  },
+  {
+    "question": "What was the stock level after the 50-unit shipment from Prime Logistics on 2026-05-03?",
+    "expected": "R00072",
+    "retrieved": "R00072",
+    "score": 20.536163330078125,
+    "correct": true
+  },
+  {
+    "question": "What was the stock level after the 100-unit shipment from Global Warehouse on 2026-03-02?",
+    "expected": "R00053",
+    "retrieved": "R00128",
+    "score": 20.308061599731445,
+    "correct": false
+  },
+  {
+    "question": "What was the stock level after the 300-unit shipment from ABC Traders on 2026-05-20?",
+    "expected": "R00280",
+    "retrieved": "R00280",
+    "score": 20.371063232421875,
+    "correct": true
+  },
+  {
+    "question": "What was the stock level after the 100-unit shipment from Prime Logistics on 2026-05-16?",
+    "expected": "R00045",
+    "retrieved": "R00045",
+    "score": 20.562864303588867,
+    "correct": true
+  },
+  {
+    "question": "What was the stock level after the 450-unit shipment from Prime Logistics on 2026-01-07?",
+    "expected": "R00303",
+    "retrieved": "R00303",
+    "score": 20.629112243652344,
+    "correct": true
+  },
+  {
+    "question": "What was the stock level after the 500-unit shipment from ABC Traders on 2026-01-09?",
+    "expected": "R00217",
+    "retrieved": "R00217",
+    "score": 20.51504135131836,
+    "correct": true
+  },
+  {
+    "question": "What was the stock level after the 100-unit shipment from Tech Parts Ltd on 2026-03-13?",
+    "expected": "R00017",
+    "retrieved": "R00017",
+    "score": 19.981143951416016,
+    "correct": true
+  },
+  {
+    "question": "What was the stock level after the 300-unit shipment from ABC Traders on 2026-01-21?",
+    "expected": "R00016",
+    "retrieved": "R00016",
+    "score": 20.216978073120117,
+    "correct": true
+  },
+  {
+    "question": "What was the stock level after the 100-unit shipment from Meridian Supplies on 2026-04-26?",
+    "expected": "R00048",
+    "retrieved": "R00048",
+    "score": 20.369653701782227,
+    "correct": true
+  },
+  {
+    "question": "What was the stock level after the 50-unit shipment from ABC Traders on 2026-03-08?",
+    "expected": "R00112",
+    "retrieved": "R00112",
+    "score": 20.365400314331055,
+    "correct": true
+  },
+  {
+    "question": "What was the stock level after the 100-unit shipment from Global Warehouse on 2026-06-28?",
+    "expected": "R00120",
+    "retrieved": "R00120",
+    "score": 20.16946792602539,
+    "correct": true
+  },
+  {
+    "question": "What was the stock level after the 300-unit shipment from Tech Parts Ltd on 2026-03-23?",
+    "expected": "R00259",
+    "retrieved": "R00259",
+    "score": 19.905773162841797,
+    "correct": true
+  },
+  {
+    "question": "What was the stock level after the 450-unit shipment from Prime Logistics on 2026-06-21?",
+    "expected": "R00309",
+    "retrieved": "R00309",
+    "score": 20.630718231201172,
+    "correct": true
+  },
+  {
+    "question": "What was the stock level after the 500-unit shipment from Global Warehouse on 2026-06-08?",
+    "expected": "R00014",
+    "retrieved": "R00014",
+    "score": 20.130727767944336,
+    "correct": true
+  },
+  {
+    "question": "What was the stock level after the 100-unit shipment from Prime Logistics on 2026-02-28?",
+    "expected": "R00288",
+    "retrieved": "R00288",
+    "score": 20.5509090423584,
+    "correct": true
+  },
+  {
+    "question": "What was the stock level after the 50-unit shipment from ABC Traders on 2026-02-11?",
+    "expected": "R00102",
+    "retrieved": "R00102",
+    "score": 20.369049072265625,
+    "correct": true
+  },
+  {
+    "question": "What was the stock level after the 100-unit shipment from Global Warehouse on 2026-06-20?",
+    "expected": "R00342",
+    "retrieved": "R00342",
+    "score": 20.12777328491211,
+    "correct": true
+  },
+  {
+    "question": "What was the stock level after the 50-unit shipment from Meridian Supplies on 2026-05-22?",
+    "expected": "R00215",
+    "retrieved": "R00215",
+    "score": 20.27791976928711,
+    "correct": true
+  },
+  {
+    "question": "What was the stock level after the 200-unit shipment from Prime Logistics on 2026-01-28?",
+    "expected": "R00113",
+    "retrieved": "R00113",
+    "score": 20.4279842376709,
+    "correct": true
+  },
+  {
+    "question": "What was the stock level after the 200-unit shipment from Prime Logistics on 2026-05-01?",
+    "expected": "R00230",
+    "retrieved": "R00230",
+    "score": 20.461402893066406,
+    "correct": true
+  },
+  {
+    "question": "What was the stock level after the 300-unit shipment from Meridian Supplies on 2026-04-06?",
+    "expected": "R00302",
+    "retrieved": "R00302",
+    "score": 20.085540771484375,
+    "correct": true
+  },
+  {
+    "question": "What was the stock level after the 100-unit shipment from Global Warehouse on 2026-03-27?",
+    "expected": "R00143",
+    "retrieved": "R00143",
+    "score": 20.244903564453125,
+    "correct": true
+  },
+  {
+    "question": "What was the stock level after the 50-unit shipment from Meridian Supplies on 2026-04-19?",
+    "expected": "R00004",
+    "retrieved": "R00004",
+    "score": 20.337718963623047,
+    "correct": true
+  },
+  {
+    "question": "What was the stock level after the 100-unit shipment from ABC Traders on 2026-05-18?",
+    "expected": "R00082",
+    "retrieved": "R00082",
+    "score": 20.341201782226562,
+    "correct": true
+  },
+  {
+    "question": "What was the stock level after the 200-unit shipment from ABC Traders on 2026-04-26?",
+    "expected": "R00339",
+    "retrieved": "R00339",
+    "score": 20.41077995300293,
+    "correct": true
+  },
+  {
+    "question": "What was the stock level after the 300-unit shipment from Tech Parts Ltd on 2026-04-03?",
+    "expected": "R00175",
+    "retrieved": "R00175",
+    "score": 19.868377685546875,
+    "correct": true
+  },
+  {
+    "question": "What was the stock level after the 50-unit shipment from Meridian Supplies on 2026-01-29?",
+    "expected": "R00323",
+    "retrieved": "R00323",
+    "score": 20.170379638671875,
+    "correct": true
+  },
+  {
+    "question": "What was the stock level after the 300-unit shipment from Meridian Supplies on 2026-03-22?",
+    "expected": "R00080",
+    "retrieved": "R00080",
+    "score": 20.182865142822266,
+    "correct": true
+  },
+  {
+    "question": "What was the stock level after the 50-unit shipment from Global Warehouse on 2026-05-18?",
+    "expected": "R00111",
+    "retrieved": "R00111",
+    "score": 20.265052795410156,
+    "correct": true
+  },
+  {
+    "question": "What was the stock level after the 50-unit shipment from Meridian Supplies on 2026-04-05?",
+    "expected": "R00173",
+    "retrieved": "R00173",
+    "score": 20.32201385498047,
+    "correct": true
+  },
+  {
+    "question": "What was the stock level after the 50-unit shipment from Tech Parts Ltd on 2026-06-25?",
+    "expected": "R00343",
+    "retrieved": "R00343",
+    "score": 19.727598190307617,
+    "correct": true
+  },
+  {
+    "question": "What was the stock level after the 300-unit shipment from Prime Logistics on 2026-06-02?",
+    "expected": "R00336",
+    "retrieved": "R00336",
+    "score": 20.491893768310547,
+    "correct": true
+  },
+  {
+    "question": "What was the stock level after the 500-unit shipment from Tech Parts Ltd on 2026-02-25?",
+    "expected": "R00195",
+    "retrieved": "R00195",
+    "score": 19.9089412689209,
+    "correct": true
+  },
+  {
+    "question": "What was the stock level after the 50-unit shipment from ABC Traders on 2026-05-22?",
+    "expected": "R00050",
+    "retrieved": "R00050",
+    "score": 20.358474731445312,
+    "correct": true
+  },
+  {
+    "question": "What was the stock level after the 50-unit shipment from Prime Logistics on 2026-01-03?",
+    "expected": "R00184",
+    "retrieved": "R00184",
+    "score": 20.451831817626953,
+    "correct": true
+  },
+  {
+    "question": "What was the stock level after the 300-unit shipment from Tech Parts Ltd on 2026-05-18?",
+    "expected": "R00177",
+    "retrieved": "R00177",
+    "score": 19.84659194946289,
+    "correct": true
+  },
+  {
+    "question": "What was the stock level after the 100-unit shipment from Meridian Supplies on 2026-03-05?",
+    "expected": "R00136",
+    "retrieved": "R00136",
+    "score": 20.39594841003418,
+    "correct": true
+  },
+  {
+    "question": "What was the stock level after the 50-unit shipment from Tech Parts Ltd on 2026-03-22?",
+    "expected": "R00023",
+    "retrieved": "R00023",
+    "score": 19.970401763916016,
+    "correct": true
+  },
+  {
+    "question": "What was the stock level after the 300-unit shipment from Prime Logistics on 2026-04-13?",
+    "expected": "R00236",
+    "retrieved": "R00236",
+    "score": 20.644752502441406,
+    "correct": true
+  },
+  {
+    "question": "What was the stock level after the 450-unit shipment from Meridian Supplies on 2026-02-14?",
+    "expected": "R00275",
+    "retrieved": "R00275",
+    "score": 20.488483428955078,
+    "correct": true
+  },
+  {
+    "question": "What was the stock level after the 300-unit shipment from ABC Traders on 2026-03-02?",
+    "expected": "R00064",
+    "retrieved": "R00064",
+    "score": 20.413761138916016,
+    "correct": true
+  },
+  {
+    "question": "What was the stock level after the 100-unit shipment from Prime Logistics on 2026-01-31?",
+    "expected": "R00194",
+    "retrieved": "R00194",
+    "score": 20.445825576782227,
+    "correct": true
+  },
+  {
+    "question": "What was the stock level after the 50-unit shipment from Global Warehouse on 2026-04-03?",
+    "expected": "R00041",
+    "retrieved": "R00041",
+    "score": 20.229732513427734,
+    "correct": true
+  },
+  {
+    "question": "What was the stock level after the 50-unit shipment from Tech Parts Ltd on 2026-02-20?",
+    "expected": "R00283",
+    "retrieved": "R00283",
+    "score": 19.98301124572754,
+    "correct": true
+  },
+  {
+    "question": "What was the stock level after the 300-unit shipment from Global Warehouse on 2026-02-26?",
+    "expected": "R00151",
+    "retrieved": "R00151",
+    "score": 20.180072784423828,
+    "correct": true
+  },
+  {
+    "question": "What was the stock level after the 300-unit shipment from Tech Parts Ltd on 2026-03-03?",
+    "expected": "R00186",
+    "retrieved": "R00186",
+    "score": 19.988750457763672,
+    "correct": true
+  },
+  {
+    "question": "What was the stock level after the 500-unit shipment from Tech Parts Ltd on 2026-03-07?",
+    "expected": "R00296",
+    "retrieved": "R00296",
+    "score": 19.952754974365234,
+    "correct": true
+  },
+  {
+    "question": "What was the stock level after the 500-unit shipment from Global Warehouse on 2026-01-11?",
+    "expected": "R00099",
+    "retrieved": "R00172",
+    "score": 20.165416717529297,
+    "correct": false
+  },
+  {
+    "question": "What was the stock level after the 500-unit shipment from Tech Parts Ltd on 2026-02-10?",
+    "expected": "R00036",
+    "retrieved": "R00036",
+    "score": 19.860519409179688,
+    "correct": true
+  },
+  {
+    "question": "What was the stock level after the 100-unit shipment from Prime Logistics on 2026-02-24?",
+    "expected": "R00024",
+    "retrieved": "R00024",
+    "score": 20.537433624267578,
+    "correct": true
+  },
+  {
+    "question": "What was the stock level after the 450-unit shipment from Meridian Supplies on 2026-04-21?",
+    "expected": "R00117",
+    "retrieved": "R00117",
+    "score": 20.51592254638672,
+    "correct": true
+  },
+  {
+    "question": "What was the stock level after the 300-unit shipment from Global Warehouse on 2026-01-02?",
+    "expected": "R00149",
+    "retrieved": "R00149",
+    "score": 20.073291778564453,
+    "correct": true
+  },
+  {
+    "question": "What was the stock level after the 50-unit shipment from ABC Traders on 2026-04-02?",
+    "expected": "R00324",
+    "retrieved": "R00324",
+    "score": 20.367938995361328,
+    "correct": true
+  },
+  {
+    "question": "What was the stock level after the 100-unit shipment from ABC Traders on 2026-06-05?",
+    "expected": "R00334",
+    "retrieved": "R00334",
+    "score": 20.169048309326172,
+    "correct": true
+  },
+  {
+    "question": "What was the stock level after the 450-unit shipment from Global Warehouse on 2026-01-09?",
+    "expected": "R00052",
+    "retrieved": "R00052",
+    "score": 20.2415828704834,
+    "correct": true
+  },
+  {
+    "question": "What was the stock level after the 300-unit shipment from Global Warehouse on 2026-06-26?",
+    "expected": "R00312",
+    "retrieved": "R00312",
+    "score": 20.04132652282715,
+    "correct": true
+  },
+  {
+    "question": "What was the stock level after the 450-unit shipment from ABC Traders on 2026-03-27?",
+    "expected": "R00318",
+    "retrieved": "R00318",
+    "score": 20.363250732421875,
+    "correct": true
+  },
+  {
+    "question": "What was the stock level after the 500-unit shipment from Global Warehouse on 2026-04-15?",
+    "expected": "R00233",
+    "retrieved": "R00233",
+    "score": 20.34571647644043,
+    "correct": true
+  },
+  {
+    "question": "What was the stock level after the 100-unit shipment from Meridian Supplies on 2026-01-05?",
+    "expected": "R00187",
+    "retrieved": "R00187",
+    "score": 20.279560089111328,
+    "correct": true
+  },
+  {
+    "question": "What was the stock level after the 450-unit shipment from ABC Traders on 2026-03-14?",
+    "expected": "R00084",
+    "retrieved": "R00084",
+    "score": 20.360214233398438,
+    "correct": true
+  },
+  {
+    "question": "What was the stock level after the 500-unit shipment from Global Warehouse on 2026-05-16?",
+    "expected": "R00190",
+    "retrieved": "R00190",
+    "score": 20.269563674926758,
+    "correct": true
+  },
+  {
+    "question": "What was the stock level after the 200-unit shipment from ABC Traders on 2026-05-05?",
+    "expected": "R00182",
+    "retrieved": "R00182",
+    "score": 20.430875778198242,
+    "correct": true
+  },
+  {
+    "question": "What was the stock level after the 200-unit shipment from ABC Traders on 2026-06-18?",
+    "expected": "R00108",
+    "retrieved": "R00108",
+    "score": 20.39358901977539,
+    "correct": true
+  },
+  {
+    "question": "What was the stock level after the 300-unit shipment from Prime Logistics on 2026-04-29?",
+    "expected": "R00137",
+    "retrieved": "R00137",
+    "score": 20.553070068359375,
+    "correct": true
+  },
+  {
+    "question": "What was the stock level after the 450-unit shipment from Prime Logistics on 2026-03-09?",
+    "expected": "R00037",
+    "retrieved": "R00037",
+    "score": 20.705997467041016,
+    "correct": true
+  },
+  {
+    "question": "What was the stock level after the 200-unit shipment from ABC Traders on 2026-05-22?",
+    "expected": "R00088",
+    "retrieved": "R00088",
+    "score": 20.422204971313477,
+    "correct": true
+  },
+  {
+    "question": "What was the stock level after the 100-unit shipment from Tech Parts Ltd on 2026-05-16?",
+    "expected": "R00274",
+    "retrieved": "R00274",
+    "score": 20.116235733032227,
+    "correct": true
+  },
+  {
+    "question": "What was the stock level after the 500-unit shipment from Prime Logistics on 2026-05-24?",
+    "expected": "R00346",
+    "retrieved": "R00346",
+    "score": 20.531139373779297,
+    "correct": true
+  },
+  {
+    "question": "What was the stock level after the 500-unit shipment from Global Warehouse on 2026-03-17?",
+    "expected": "R00285",
+    "retrieved": "R00285",
+    "score": 20.252241134643555,
+    "correct": true
+  },
+  {
+    "question": "What was the stock level after the 200-unit shipment from Global Warehouse on 2026-01-23?",
+    "expected": "R00237",
+    "retrieved": "R00237",
+    "score": 20.05265235900879,
+    "correct": true
+  },
+  {
+    "question": "What was the stock level after the 500-unit shipment from ABC Traders on 2026-06-12?",
+    "expected": "R00289",
+    "retrieved": "R00289",
+    "score": 20.41413116455078,
+    "correct": true
+  },
+  {
+    "question": "What was the stock level after the 300-unit shipment from ABC Traders on 2026-04-25?",
+    "expected": "R00139",
+    "retrieved": "R00139",
+    "score": 20.289398193359375,
+    "correct": true
+  },
+  {
+    "question": "What was the stock level after the 500-unit shipment from Prime Logistics on 2026-04-18?",
+    "expected": "R00326",
+    "retrieved": "R00326",
+    "score": 20.69394302368164,
+    "correct": true
+  },
+  {
+    "question": "What was the stock level after the 100-unit shipment from Prime Logistics on 2026-06-05?",
+    "expected": "R00167",
+    "retrieved": "R00167",
+    "score": 20.490800857543945,
+    "correct": true
+  },
+  {
+    "question": "What was the stock level after the 50-unit shipment from ABC Traders on 2026-02-26?",
+    "expected": "R00029",
+    "retrieved": "R00029",
+    "score": 20.362476348876953,
+    "correct": true
+  },
+  {
+    "question": "What was the stock level after the 450-unit shipment from Meridian Supplies on 2026-03-22?",
+    "expected": "R00118",
+    "retrieved": "R00118",
+    "score": 20.450220108032227,
+    "correct": true
+  },
+  {
+    "question": "What was the stock level after the 300-unit shipment from Meridian Supplies on 2026-06-29?",
+    "expected": "R00338",
+    "retrieved": "R00338",
+    "score": 20.0526123046875,
+    "correct": true
+  },
+  {
+    "question": "What was the stock level after the 50-unit shipment from Meridian Supplies on 2026-06-16?",
+    "expected": "R00162",
+    "retrieved": "R00162",
+    "score": 20.15814971923828,
+    "correct": true
+  },
+  {
+    "question": "What was the stock level after the 100-unit shipment from Meridian Supplies on 2026-06-11?",
+    "expected": "R00206",
+    "retrieved": "R00206",
+    "score": 20.180635452270508,
+    "correct": true
+  },
+  {
+    "question": "What was the stock level after the 450-unit shipment from Prime Logistics on 2026-06-06?",
+    "expected": "R00138",
+    "retrieved": "R00138",
+    "score": 20.5022029876709,
+    "correct": true
+  },
+  {
+    "question": "What was the stock level after the 500-unit shipment from Prime Logistics on 2026-01-30?",
+    "expected": "R00034",
+    "retrieved": "R00220",
+    "score": 20.493419647216797,
+    "correct": false
+  },
+  {
+    "question": "What was the stock level after the 200-unit shipment from Meridian Supplies on 2026-03-13?",
+    "expected": "R00109",
+    "retrieved": "R00109",
+    "score": 20.4154109954834,
+    "correct": true
+  },
+  {
+    "question": "What was the stock level after the 450-unit shipment from Tech Parts Ltd on 2026-06-10?",
+    "expected": "R00267",
+    "retrieved": "R00267",
+    "score": 19.898605346679688,
+    "correct": true
+  },
+  {
+    "question": "What was the stock level after the 50-unit shipment from Tech Parts Ltd on 2026-02-06?",
+    "expected": "R00263",
+    "retrieved": "R00263",
+    "score": 19.678955078125,
+    "correct": true
+  },
+  {
+    "question": "What was the stock level after the 300-unit shipment from Prime Logistics on 2026-03-27?",
+    "expected": "R00256",
+    "retrieved": "R00256",
+    "score": 20.533920288085938,
+    "correct": true
+  },
+  {
+    "question": "What was the stock level after the 50-unit shipment from Global Warehouse on 2026-04-23?",
+    "expected": "R00203",
+    "retrieved": "R00203",
+    "score": 20.19791030883789,
+    "correct": true
+  },
+  {
+    "question": "What was the stock level after the 500-unit shipment from Tech Parts Ltd on 2026-06-27?",
+    "expected": "R00235",
+    "retrieved": "R00235",
+    "score": 19.717384338378906,
+    "correct": true
+  },
+  {
+    "question": "What was the stock level after the 300-unit shipment from Meridian Supplies on 2026-06-02?",
+    "expected": "R00074",
+    "retrieved": "R00074",
+    "score": 20.01859474182129,
+    "correct": true
+  },
+  {
+    "question": "What was the stock level after the 200-unit shipment from Tech Parts Ltd on 2026-02-04?",
+    "expected": "R00308",
+    "retrieved": "R00308",
+    "score": 19.974817276000977,
+    "correct": true
+  },
+  {
+    "question": "What was the stock level after the 450-unit shipment from ABC Traders on 2026-02-06?",
+    "expected": "R00298",
+    "retrieved": "R00298",
+    "score": 20.38715362548828,
+    "correct": true
+  },
+  {
+    "question": "What was the stock level after the 500-unit shipment from Meridian Supplies on 2026-02-26?",
+    "expected": "R00304",
+    "retrieved": "R00304",
+    "score": 20.42534065246582,
+    "correct": true
+  },
+  {
+    "question": "What was the stock level after the 500-unit shipment from Global Warehouse on 2026-05-21?",
+    "expected": "R00191",
+    "retrieved": "R00191",
+    "score": 20.187625885009766,
+    "correct": true
+  },
+  {
+    "question": "What was the stock level after the 500-unit shipment from ABC Traders on 2026-02-08?",
+    "expected": "R00144",
+    "retrieved": "R00144",
+    "score": 20.560192108154297,
+    "correct": true
+  },
+  {
+    "question": "What was the stock level after the 200-unit shipment from Tech Parts Ltd on 2026-06-27?",
+    "expected": "R00265",
+    "retrieved": "R00265",
+    "score": 19.759851455688477,
+    "correct": true
+  }
+]

@@ -17,16 +17,16 @@ The project includes:
 
 llm-engineering-assessment/
 ├── data/
-│ ├── inventory.json
-│ └── eval_set.json
+│   ├── inventory.json
+│   └── eval_set.json
 ├── src/
-│ ├── retriever.py
-│ ├── hybrid_retriever.py
-│ ├── evaluator.py
-│ ├── data_generator.py
-│ └── eval_generator.py
+│   ├── retriever.py
+│   ├── hybrid_retriever.py
+│   ├── evaluator.py
+│   ├── data_generator.py
+│   └── eval_generator.py
 ├── tests/
-│ └── test_retriever.py
+│   └── test_retriever.py
 ├── outputs/
 ├── REPORT.md
 ├── requirements.txt
@@ -37,18 +37,15 @@ llm-engineering-assessment/
 ## Setup
 
 Create virtual environment:
-
 ```bash
 python -m venv .venv
 
 ```
 
 Activate:
-
 source .venv/bin/activate
 
 Install dependencies:
-
 pip install -r requirements.txt
 
 ---
@@ -64,5 +61,4 @@ python src/evaluator.py
 pytest tests -q
 
 Expected:
-
 3 passed

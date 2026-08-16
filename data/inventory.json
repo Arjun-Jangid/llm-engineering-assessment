@@ -1,0 +1,2802 @@
+[
+  {
+    "record_id": "R00001",
+    "date": "2026-06-13",
+    "supplier": "Meridian Supplies",
+    "movement": "in",
+    "quantity": 500,
+    "stock_after": 1500
+  },
+  {
+    "record_id": "R00002",
+    "date": "2026-03-12",
+    "supplier": "ABC Traders",
+    "movement": "in",
+    "quantity": 100,
+    "stock_after": 1600
+  },
+  {
+    "record_id": "R00003",
+    "date": "2026-01-27",
+    "supplier": "Prime Logistics",
+    "movement": "in",
+    "quantity": 450,
+    "stock_after": 2050
+  },
+  {
+    "record_id": "R00004",
+    "date": "2026-04-19",
+    "supplier": "Meridian Supplies",
+    "movement": "in",
+    "quantity": 50,
+    "stock_after": 2100
+  },
+  {
+    "record_id": "R00005",
+    "date": "2026-02-25",
+    "supplier": "ABC Traders",
+    "movement": "in",
+    "quantity": 450,
+    "stock_after": 2550
+  },
+  {
+    "record_id": "R00006",
+    "date": "2026-02-20",
+    "supplier": "Prime Logistics",
+    "movement": "out",
+    "quantity": 100,
+    "stock_after": 2450
+  },
+  {
+    "record_id": "R00007",
+    "date": "2026-04-25",
+    "supplier": "Prime Logistics",
+    "movement": "out",
+    "quantity": 50,
+    "stock_after": 2400
+  },
+  {
+    "record_id": "R00008",
+    "date": "2026-02-10",
+    "supplier": "Tech Parts Ltd",
+    "movement": "out",
+    "quantity": 200,
+    "stock_after": 2200
+  },
+  {
+    "record_id": "R00009",
+    "date": "2026-02-09",
+    "supplier": "ABC Traders",
+    "movement": "out",
+    "quantity": 50,
+    "stock_after": 2150
+  },
+  {
+    "record_id": "R00010",
+    "date": "2026-01-24",
+    "supplier": "Tech Parts Ltd",
+    "movement": "in",
+    "quantity": 200,
+    "stock_after": 2350
+  },
+  {
+    "record_id": "R00011",
+    "date": "2026-03-30",
+    "supplier": "Prime Logistics",
+    "movement": "out",
+    "quantity": 50,
+    "stock_after": 2300
+  },
+  {
+    "record_id": "R00012",
+    "date": "2026-04-28",
+    "supplier": "Prime Logistics",
+    "movement": "in",
+    "quantity": 300,
+    "stock_after": 2600
+  },
+  {
+    "record_id": "R00013",
+    "date": "2026-01-21",
+    "supplier": "Prime Logistics",
+    "movement": "out",
+    "quantity": 500,
+    "stock_after": 2100
+  },
+  {
+    "record_id": "R00014",
+    "date": "2026-06-08",
+    "supplier": "Global Warehouse",
+    "movement": "in",
+    "quantity": 500,
+    "stock_after": 2600
+  },
+  {
+    "record_id": "R00015",
+    "date": "2026-01-18",
+    "supplier": "Meridian Supplies",
+    "movement": "in",
+    "quantity": 200,
+    "stock_after": 2800
+  },
+  {
+    "record_id": "R00016",
+    "date": "2026-01-21",
+    "supplier": "ABC Traders",
+    "movement": "in",
+    "quantity": 300,
+    "stock_after": 3100
+  },
+  {
+    "record_id": "R00017",
+    "date": "2026-03-13",
+    "supplier": "Tech Parts Ltd",
+    "movement": "out",
+    "quantity": 100,
+    "stock_after": 3000
+  },
+  {
+    "record_id": "R00018",
+    "date": "2026-04-05",
+    "supplier": "Global Warehouse",
+    "movement": "in",
+    "quantity": 500,
+    "stock_after": 3500
+  },
+  {
+    "record_id": "R00019",
+    "date": "2026-03-10",
+    "supplier": "Meridian Supplies",
+    "movement": "in",
+    "quantity": 450,
+    "stock_after": 3950
+  },
+  {
+    "record_id": "R00020",
+    "date": "2026-03-04",
+    "supplier": "ABC Traders",
+    "movement": "out",
+    "quantity": 300,
+    "stock_after": 3650
+  },
+  {
+    "record_id": "R00021",
+    "date": "2026-03-11",
+    "supplier": "Prime Logistics",
+    "movement": "in",
+    "quantity": 500,
+    "stock_after": 4150
+  },
+  {
+    "record_id": "R00022",
+    "date": "2026-03-25",
+    "supplier": "Meridian Supplies",
+    "movement": "in",
+    "quantity": 50,
+    "stock_after": 4200
+  },
+  {
+    "record_id": "R00023",
+    "date": "2026-03-22",
+    "supplier": "Tech Parts Ltd",
+    "movement": "out",
+    "quantity": 50,
+    "stock_after": 4150
+  },
+  {
+    "record_id": "R00024",
+    "date": "2026-02-24",
+    "supplier": "Prime Logistics",
+    "movement": "out",
+    "quantity": 100,
+    "stock_after": 4050
+  },
+  {
+    "record_id": "R00025",
+    "date": "2026-06-17",
+    "supplier": "Tech Parts Ltd",
+    "movement": "out",
+    "quantity": 500,
+    "stock_after": 3550
+  },
+  {
+    "record_id": "R00026",
+    "date": "2026-04-28",
+    "supplier": "ABC Traders",
+    "movement": "out",
+    "quantity": 100,
+    "stock_after": 3450
+  },
+  {
+    "record_id": "R00027",
+    "date": "2026-03-05",
+    "supplier": "Prime Logistics",
+    "movement": "out",
+    "quantity": 500,
+    "stock_after": 2950
+  },
+  {
+    "record_id": "R00028",
+    "date": "2026-05-30",
+    "supplier": "Tech Parts Ltd",
+    "movement": "out",
+    "quantity": 200,
+    "stock_after": 2750
+  },
+  {
+    "record_id": "R00029",
+    "date": "2026-02-26",
+    "supplier": "ABC Traders",
+    "movement": "out",
+    "quantity": 50,
+    "stock_after": 2700
+  },
+  {
+    "record_id": "R00030",
+    "date": "2026-01-13",
+    "supplier": "Meridian Supplies",
+    "movement": "in",
+    "quantity": 500,
+    "stock_after": 3200
+  },
+  {
+    "record_id": "R00031",
+    "date": "2026-02-10",
+    "supplier": "Tech Parts Ltd",
+    "movement": "in",
+    "quantity": 300,
+    "stock_after": 3500
+  },
+  {
+    "record_id": "R00032",
+    "date": "2026-04-08",
+    "supplier": "Prime Logistics",
+    "movement": "out",
+    "quantity": 450,
+    "stock_after": 3050
+  },
+  {
+    "record_id": "R00033",
+    "date": "2026-03-06",
+    "supplier": "Prime Logistics",
+    "movement": "in",
+    "quantity": 500,
+    "stock_after": 3550
+  },
+  {
+    "record_id": "R00034",
+    "date": "2026-01-30",
+    "supplier": "Prime Logistics",
+    "movement": "out",
+    "quantity": 500,
+    "stock_after": 3050
+  },
+  {
+    "record_id": "R00035",
+    "date": "2026-03-29",
+    "supplier": "Meridian Supplies",
+    "movement": "out",
+    "quantity": 300,
+    "stock_after": 2750
+  },
+  {
+    "record_id": "R00036",
+    "date": "2026-02-10",
+    "supplier": "Tech Parts Ltd",
+    "movement": "in",
+    "quantity": 500,
+    "stock_after": 3250
+  },
+  {
+    "record_id": "R00037",
+    "date": "2026-03-09",
+    "supplier": "Prime Logistics",
+    "movement": "in",
+    "quantity": 450,
+    "stock_after": 3700
+  },
+  {
+    "record_id": "R00038",
+    "date": "2026-01-28",
+    "supplier": "Global Warehouse",
+    "movement": "in",
+    "quantity": 100,
+    "stock_after": 3800
+  },
+  {
+    "record_id": "R00039",
+    "date": "2026-04-06",
+    "supplier": "ABC Traders",
+    "movement": "in",
+    "quantity": 450,
+    "stock_after": 4250
+  },
+  {
+    "record_id": "R00040",
+    "date": "2026-03-24",
+    "supplier": "Tech Parts Ltd",
+    "movement": "in",
+    "quantity": 50,
+    "stock_after": 4300
+  },
+  {
+    "record_id": "R00041",
+    "date": "2026-04-03",
+    "supplier": "Global Warehouse",
+    "movement": "in",
+    "quantity": 50,
+    "stock_after": 4350
+  },
+  {
+    "record_id": "R00042",
+    "date": "2026-03-03",
+    "supplier": "Prime Logistics",
+    "movement": "in",
+    "quantity": 50,
+    "stock_after": 4400
+  },
+  {
+    "record_id": "R00043",
+    "date": "2026-05-05",
+    "supplier": "Meridian Supplies",
+    "movement": "in",
+    "quantity": 100,
+    "stock_after": 4500
+  },
+  {
+    "record_id": "R00044",
+    "date": "2026-06-18",
+    "supplier": "Tech Parts Ltd",
+    "movement": "in",
+    "quantity": 200,
+    "stock_after": 4700
+  },
+  {
+    "record_id": "R00045",
+    "date": "2026-05-16",
+    "supplier": "Prime Logistics",
+    "movement": "out",
+    "quantity": 100,
+    "stock_after": 4600
+  },
+  {
+    "record_id": "R00046",
+    "date": "2026-05-19",
+    "supplier": "ABC Traders",
+    "movement": "out",
+    "quantity": 300,
+    "stock_after": 4300
+  },
+  {
+    "record_id": "R00047",
+    "date": "2026-06-21",
+    "supplier": "Global Warehouse",
+    "movement": "out",
+    "quantity": 450,
+    "stock_after": 3850
+  },
+  {
+    "record_id": "R00048",
+    "date": "2026-04-26",
+    "supplier": "Meridian Supplies",
+    "movement": "in",
+    "quantity": 100,
+    "stock_after": 3950
+  },
+  {
+    "record_id": "R00049",
+    "date": "2026-01-17",
+    "supplier": "Global Warehouse",
+    "movement": "in",
+    "quantity": 450,
+    "stock_after": 4400
+  },
+  {
+    "record_id": "R00050",
+    "date": "2026-05-22",
+    "supplier": "ABC Traders",
+    "movement": "in",
+    "quantity": 50,
+    "stock_after": 4450
+  },
+  {
+    "record_id": "R00051",
+    "date": "2026-01-19",
+    "supplier": "Meridian Supplies",
+    "movement": "in",
+    "quantity": 50,
+    "stock_after": 4500
+  },
+  {
+    "record_id": "R00052",
+    "date": "2026-01-09",
+    "supplier": "Global Warehouse",
+    "movement": "in",
+    "quantity": 450,
+    "stock_after": 4950
+  },
+  {
+    "record_id": "R00053",
+    "date": "2026-03-02",
+    "supplier": "Global Warehouse",
+    "movement": "out",
+    "quantity": 100,
+    "stock_after": 4850
+  },
+  {
+    "record_id": "R00054",
+    "date": "2026-05-19",
+    "supplier": "ABC Traders",
+    "movement": "out",
+    "quantity": 100,
+    "stock_after": 4750
+  },
+  {
+    "record_id": "R00055",
+    "date": "2026-05-02",
+    "supplier": "Tech Parts Ltd",
+    "movement": "in",
+    "quantity": 50,
+    "stock_after": 4800
+  },
+  {
+    "record_id": "R00056",
+    "date": "2026-01-25",
+    "supplier": "Tech Parts Ltd",
+    "movement": "out",
+    "quantity": 300,
+    "stock_after": 4500
+  },
+  {
+    "record_id": "R00057",
+    "date": "2026-04-16",
+    "supplier": "Tech Parts Ltd",
+    "movement": "in",
+    "quantity": 500,
+    "stock_after": 5000
+  },
+  {
+    "record_id": "R00058",
+    "date": "2026-06-17",
+    "supplier": "Meridian Supplies",
+    "movement": "in",
+    "quantity": 300,
+    "stock_after": 5300
+  },
+  {
+    "record_id": "R00059",
+    "date": "2026-03-28",
+    "supplier": "Meridian Supplies",
+    "movement": "in",
+    "quantity": 100,
+    "stock_after": 5400
+  },
+  {
+    "record_id": "R00060",
+    "date": "2026-02-18",
+    "supplier": "Prime Logistics",
+    "movement": "out",
+    "quantity": 100,
+    "stock_after": 5300
+  },
+  {
+    "record_id": "R00061",
+    "date": "2026-04-19",
+    "supplier": "ABC Traders",
+    "movement": "out",
+    "quantity": 300,
+    "stock_after": 5000
+  },
+  {
+    "record_id": "R00062",
+    "date": "2026-03-05",
+    "supplier": "Meridian Supplies",
+    "movement": "out",
+    "quantity": 450,
+    "stock_after": 4550
+  },
+  {
+    "record_id": "R00063",
+    "date": "2026-01-26",
+    "supplier": "Meridian Supplies",
+    "movement": "in",
+    "quantity": 50,
+    "stock_after": 4600
+  },
+  {
+    "record_id": "R00064",
+    "date": "2026-03-02",
+    "supplier": "ABC Traders",
+    "movement": "out",
+    "quantity": 300,
+    "stock_after": 4300
+  },
+  {
+    "record_id": "R00065",
+    "date": "2026-05-04",
+    "supplier": "ABC Traders",
+    "movement": "out",
+    "quantity": 50,
+    "stock_after": 4250
+  },
+  {
+    "record_id": "R00066",
+    "date": "2026-02-12",
+    "supplier": "Tech Parts Ltd",
+    "movement": "in",
+    "quantity": 300,
+    "stock_after": 4550
+  },
+  {
+    "record_id": "R00067",
+    "date": "2026-03-09",
+    "supplier": "Tech Parts Ltd",
+    "movement": "out",
+    "quantity": 300,
+    "stock_after": 4250
+  },
+  {
+    "record_id": "R00068",
+    "date": "2026-06-28",
+    "supplier": "Prime Logistics",
+    "movement": "out",
+    "quantity": 100,
+    "stock_after": 4150
+  },
+  {
+    "record_id": "R00069",
+    "date": "2026-02-18",
+    "supplier": "Global Warehouse",
+    "movement": "in",
+    "quantity": 50,
+    "stock_after": 4200
+  },
+  {
+    "record_id": "R00070",
+    "date": "2026-05-29",
+    "supplier": "Prime Logistics",
+    "movement": "in",
+    "quantity": 500,
+    "stock_after": 4700
+  },
+  {
+    "record_id": "R00071",
+    "date": "2026-03-22",
+    "supplier": "Meridian Supplies",
+    "movement": "in",
+    "quantity": 450,
+    "stock_after": 5150
+  },
+  {
+    "record_id": "R00072",
+    "date": "2026-05-03",
+    "supplier": "Prime Logistics",
+    "movement": "in",
+    "quantity": 50,
+    "stock_after": 5200
+  },
+  {
+    "record_id": "R00073",
+    "date": "2026-05-11",
+    "supplier": "Meridian Supplies",
+    "movement": "in",
+    "quantity": 50,
+    "stock_after": 5250
+  },
+  {
+    "record_id": "R00074",
+    "date": "2026-06-02",
+    "supplier": "Meridian Supplies",
+    "movement": "in",
+    "quantity": 300,
+    "stock_after": 5550
+  },
+  {
+    "record_id": "R00075",
+    "date": "2026-01-31",
+    "supplier": "Prime Logistics",
+    "movement": "in",
+    "quantity": 450,
+    "stock_after": 6000
+  },
+  {
+    "record_id": "R00076",
+    "date": "2026-06-02",
+    "supplier": "Meridian Supplies",
+    "movement": "in",
+    "quantity": 300,
+    "stock_after": 6300
+  },
+  {
+    "record_id": "R00077",
+    "date": "2026-06-18",
+    "supplier": "Prime Logistics",
+    "movement": "out",
+    "quantity": 200,
+    "stock_after": 6100
+  },
+  {
+    "record_id": "R00078",
+    "date": "2026-02-22",
+    "supplier": "Global Warehouse",
+    "movement": "in",
+    "quantity": 200,
+    "stock_after": 6300
+  },
+  {
+    "record_id": "R00079",
+    "date": "2026-04-12",
+    "supplier": "ABC Traders",
+    "movement": "out",
+    "quantity": 300,
+    "stock_after": 6000
+  },
+  {
+    "record_id": "R00080",
+    "date": "2026-03-22",
+    "supplier": "Meridian Supplies",
+    "movement": "in",
+    "quantity": 300,
+    "stock_after": 6300
+  },
+  {
+    "record_id": "R00081",
+    "date": "2026-06-09",
+    "supplier": "Prime Logistics",
+    "movement": "in",
+    "quantity": 50,
+    "stock_after": 6350
+  },
+  {
+    "record_id": "R00082",
+    "date": "2026-05-18",
+    "supplier": "ABC Traders",
+    "movement": "out",
+    "quantity": 100,
+    "stock_after": 6250
+  },
+  {
+    "record_id": "R00083",
+    "date": "2026-03-31",
+    "supplier": "Meridian Supplies",
+    "movement": "in",
+    "quantity": 200,
+    "stock_after": 6450
+  },
+  {
+    "record_id": "R00084",
+    "date": "2026-03-14",
+    "supplier": "ABC Traders",
+    "movement": "out",
+    "quantity": 450,
+    "stock_after": 6000
+  },
+  {
+    "record_id": "R00085",
+    "date": "2026-06-30",
+    "supplier": "Global Warehouse",
+    "movement": "in",
+    "quantity": 500,
+    "stock_after": 6500
+  },
+  {
+    "record_id": "R00086",
+    "date": "2026-05-22",
+    "supplier": "Global Warehouse",
+    "movement": "in",
+    "quantity": 100,
+    "stock_after": 6600
+  },
+  {
+    "record_id": "R00087",
+    "date": "2026-03-09",
+    "supplier": "Meridian Supplies",
+    "movement": "in",
+    "quantity": 500,
+    "stock_after": 7100
+  },
+  {
+    "record_id": "R00088",
+    "date": "2026-05-22",
+    "supplier": "ABC Traders",
+    "movement": "out",
+    "quantity": 200,
+    "stock_after": 6900
+  },
+  {
+    "record_id": "R00089",
+    "date": "2026-06-04",
+    "supplier": "ABC Traders",
+    "movement": "out",
+    "quantity": 100,
+    "stock_after": 6800
+  },
+  {
+    "record_id": "R00090",
+    "date": "2026-06-25",
+    "supplier": "Global Warehouse",
+    "movement": "out",
+    "quantity": 200,
+    "stock_after": 6600
+  },
+  {
+    "record_id": "R00091",
+    "date": "2026-01-14",
+    "supplier": "Meridian Supplies",
+    "movement": "out",
+    "quantity": 200,
+    "stock_after": 6400
+  },
+  {
+    "record_id": "R00092",
+    "date": "2026-01-12",
+    "supplier": "Meridian Supplies",
+    "movement": "out",
+    "quantity": 100,
+    "stock_after": 6300
+  },
+  {
+    "record_id": "R00093",
+    "date": "2026-06-13",
+    "supplier": "Global Warehouse",
+    "movement": "in",
+    "quantity": 500,
+    "stock_after": 6800
+  },
+  {
+    "record_id": "R00094",
+    "date": "2026-04-24",
+    "supplier": "Prime Logistics",
+    "movement": "out",
+    "quantity": 450,
+    "stock_after": 6350
+  },
+  {
+    "record_id": "R00095",
+    "date": "2026-01-03",
+    "supplier": "Meridian Supplies",
+    "movement": "in",
+    "quantity": 500,
+    "stock_after": 6850
+  },
+  {
+    "record_id": "R00096",
+    "date": "2026-02-08",
+    "supplier": "Prime Logistics",
+    "movement": "in",
+    "quantity": 200,
+    "stock_after": 7050
+  },
+  {
+    "record_id": "R00097",
+    "date": "2026-05-30",
+    "supplier": "Prime Logistics",
+    "movement": "in",
+    "quantity": 300,
+    "stock_after": 7350
+  },
+  {
+    "record_id": "R00098",
+    "date": "2026-02-02",
+    "supplier": "Meridian Supplies",
+    "movement": "out",
+    "quantity": 200,
+    "stock_after": 7150
+  },
+  {
+    "record_id": "R00099",
+    "date": "2026-01-11",
+    "supplier": "Global Warehouse",
+    "movement": "in",
+    "quantity": 500,
+    "stock_after": 7650
+  },
+  {
+    "record_id": "R00100",
+    "date": "2026-03-05",
+    "supplier": "Meridian Supplies",
+    "movement": "out",
+    "quantity": 450,
+    "stock_after": 7200
+  },
+  {
+    "record_id": "R00101",
+    "date": "2026-04-15",
+    "supplier": "Prime Logistics",
+    "movement": "in",
+    "quantity": 100,
+    "stock_after": 7300
+  },
+  {
+    "record_id": "R00102",
+    "date": "2026-02-11",
+    "supplier": "ABC Traders",
+    "movement": "out",
+    "quantity": 50,
+    "stock_after": 7250
+  },
+  {
+    "record_id": "R00103",
+    "date": "2026-02-15",
+    "supplier": "Global Warehouse",
+    "movement": "out",
+    "quantity": 500,
+    "stock_after": 6750
+  },
+  {
+    "record_id": "R00104",
+    "date": "2026-03-05",
+    "supplier": "Global Warehouse",
+    "movement": "in",
+    "quantity": 500,
+    "stock_after": 7250
+  },
+  {
+    "record_id": "R00105",
+    "date": "2026-01-28",
+    "supplier": "Tech Parts Ltd",
+    "movement": "in",
+    "quantity": 300,
+    "stock_after": 7550
+  },
+  {
+    "record_id": "R00106",
+    "date": "2026-02-26",
+    "supplier": "ABC Traders",
+    "movement": "out",
+    "quantity": 200,
+    "stock_after": 7350
+  },
+  {
+    "record_id": "R00107",
+    "date": "2026-03-20",
+    "supplier": "ABC Traders",
+    "movement": "in",
+    "quantity": 50,
+    "stock_after": 7400
+  },
+  {
+    "record_id": "R00108",
+    "date": "2026-06-18",
+    "supplier": "ABC Traders",
+    "movement": "out",
+    "quantity": 200,
+    "stock_after": 7200
+  },
+  {
+    "record_id": "R00109",
+    "date": "2026-03-13",
+    "supplier": "Meridian Supplies",
+    "movement": "out",
+    "quantity": 200,
+    "stock_after": 7000
+  },
+  {
+    "record_id": "R00110",
+    "date": "2026-06-14",
+    "supplier": "Prime Logistics",
+    "movement": "out",
+    "quantity": 500,
+    "stock_after": 6500
+  },
+  {
+    "record_id": "R00111",
+    "date": "2026-05-18",
+    "supplier": "Global Warehouse",
+    "movement": "in",
+    "quantity": 50,
+    "stock_after": 6550
+  },
+  {
+    "record_id": "R00112",
+    "date": "2026-03-08",
+    "supplier": "ABC Traders",
+    "movement": "out",
+    "quantity": 50,
+    "stock_after": 6500
+  },
+  {
+    "record_id": "R00113",
+    "date": "2026-01-28",
+    "supplier": "Prime Logistics",
+    "movement": "out",
+    "quantity": 200,
+    "stock_after": 6300
+  },
+  {
+    "record_id": "R00114",
+    "date": "2026-03-22",
+    "supplier": "Tech Parts Ltd",
+    "movement": "in",
+    "quantity": 300,
+    "stock_after": 6600
+  },
+  {
+    "record_id": "R00115",
+    "date": "2026-05-28",
+    "supplier": "ABC Traders",
+    "movement": "out",
+    "quantity": 50,
+    "stock_after": 6550
+  },
+  {
+    "record_id": "R00116",
+    "date": "2026-04-22",
+    "supplier": "Meridian Supplies",
+    "movement": "in",
+    "quantity": 200,
+    "stock_after": 6750
+  },
+  {
+    "record_id": "R00117",
+    "date": "2026-04-21",
+    "supplier": "Meridian Supplies",
+    "movement": "out",
+    "quantity": 450,
+    "stock_after": 6300
+  },
+  {
+    "record_id": "R00118",
+    "date": "2026-03-22",
+    "supplier": "Meridian Supplies",
+    "movement": "out",
+    "quantity": 450,
+    "stock_after": 5850
+  },
+  {
+    "record_id": "R00119",
+    "date": "2026-03-21",
+    "supplier": "Tech Parts Ltd",
+    "movement": "out",
+    "quantity": 300,
+    "stock_after": 5550
+  },
+  {
+    "record_id": "R00120",
+    "date": "2026-06-28",
+    "supplier": "Global Warehouse",
+    "movement": "in",
+    "quantity": 100,
+    "stock_after": 5650
+  },
+  {
+    "record_id": "R00121",
+    "date": "2026-04-18",
+    "supplier": "Tech Parts Ltd",
+    "movement": "in",
+    "quantity": 450,
+    "stock_after": 6100
+  },
+  {
+    "record_id": "R00122",
+    "date": "2026-05-26",
+    "supplier": "Global Warehouse",
+    "movement": "out",
+    "quantity": 450,
+    "stock_after": 5650
+  },
+  {
+    "record_id": "R00123",
+    "date": "2026-01-01",
+    "supplier": "Global Warehouse",
+    "movement": "out",
+    "quantity": 100,
+    "stock_after": 5550
+  },
+  {
+    "record_id": "R00124",
+    "date": "2026-04-21",
+    "supplier": "Prime Logistics",
+    "movement": "out",
+    "quantity": 300,
+    "stock_after": 5250
+  },
+  {
+    "record_id": "R00125",
+    "date": "2026-04-24",
+    "supplier": "Tech Parts Ltd",
+    "movement": "in",
+    "quantity": 450,
+    "stock_after": 5700
+  },
+  {
+    "record_id": "R00126",
+    "date": "2026-05-02",
+    "supplier": "ABC Traders",
+    "movement": "in",
+    "quantity": 200,
+    "stock_after": 5900
+  },
+  {
+    "record_id": "R00127",
+    "date": "2026-05-12",
+    "supplier": "Prime Logistics",
+    "movement": "out",
+    "quantity": 50,
+    "stock_after": 5850
+  },
+  {
+    "record_id": "R00128",
+    "date": "2026-03-02",
+    "supplier": "Global Warehouse",
+    "movement": "in",
+    "quantity": 100,
+    "stock_after": 5950
+  },
+  {
+    "record_id": "R00129",
+    "date": "2026-02-07",
+    "supplier": "Meridian Supplies",
+    "movement": "in",
+    "quantity": 100,
+    "stock_after": 6050
+  },
+  {
+    "record_id": "R00130",
+    "date": "2026-05-02",
+    "supplier": "Prime Logistics",
+    "movement": "in",
+    "quantity": 300,
+    "stock_after": 6350
+  },
+  {
+    "record_id": "R00131",
+    "date": "2026-04-17",
+    "supplier": "Prime Logistics",
+    "movement": "in",
+    "quantity": 500,
+    "stock_after": 6850
+  },
+  {
+    "record_id": "R00132",
+    "date": "2026-06-28",
+    "supplier": "Tech Parts Ltd",
+    "movement": "out",
+    "quantity": 300,
+    "stock_after": 6550
+  },
+  {
+    "record_id": "R00133",
+    "date": "2026-03-04",
+    "supplier": "ABC Traders",
+    "movement": "in",
+    "quantity": 50,
+    "stock_after": 6600
+  },
+  {
+    "record_id": "R00134",
+    "date": "2026-04-19",
+    "supplier": "ABC Traders",
+    "movement": "in",
+    "quantity": 500,
+    "stock_after": 7100
+  },
+  {
+    "record_id": "R00135",
+    "date": "2026-05-13",
+    "supplier": "Tech Parts Ltd",
+    "movement": "in",
+    "quantity": 450,
+    "stock_after": 7550
+  },
+  {
+    "record_id": "R00136",
+    "date": "2026-03-05",
+    "supplier": "Meridian Supplies",
+    "movement": "out",
+    "quantity": 100,
+    "stock_after": 7450
+  },
+  {
+    "record_id": "R00137",
+    "date": "2026-04-29",
+    "supplier": "Prime Logistics",
+    "movement": "out",
+    "quantity": 300,
+    "stock_after": 7150
+  },
+  {
+    "record_id": "R00138",
+    "date": "2026-06-06",
+    "supplier": "Prime Logistics",
+    "movement": "out",
+    "quantity": 450,
+    "stock_after": 6700
+  },
+  {
+    "record_id": "R00139",
+    "date": "2026-04-25",
+    "supplier": "ABC Traders",
+    "movement": "out",
+    "quantity": 300,
+    "stock_after": 6400
+  },
+  {
+    "record_id": "R00140",
+    "date": "2026-03-08",
+    "supplier": "ABC Traders",
+    "movement": "out",
+    "quantity": 450,
+    "stock_after": 5950
+  },
+  {
+    "record_id": "R00141",
+    "date": "2026-05-05",
+    "supplier": "ABC Traders",
+    "movement": "out",
+    "quantity": 300,
+    "stock_after": 5650
+  },
+  {
+    "record_id": "R00142",
+    "date": "2026-01-20",
+    "supplier": "Global Warehouse",
+    "movement": "in",
+    "quantity": 200,
+    "stock_after": 5850
+  },
+  {
+    "record_id": "R00143",
+    "date": "2026-03-27",
+    "supplier": "Global Warehouse",
+    "movement": "in",
+    "quantity": 100,
+    "stock_after": 5950
+  },
+  {
+    "record_id": "R00144",
+    "date": "2026-02-08",
+    "supplier": "ABC Traders",
+    "movement": "out",
+    "quantity": 500,
+    "stock_after": 5450
+  },
+  {
+    "record_id": "R00145",
+    "date": "2026-02-09",
+    "supplier": "ABC Traders",
+    "movement": "in",
+    "quantity": 300,
+    "stock_after": 5750
+  },
+  {
+    "record_id": "R00146",
+    "date": "2026-04-15",
+    "supplier": "Global Warehouse",
+    "movement": "out",
+    "quantity": 300,
+    "stock_after": 5450
+  },
+  {
+    "record_id": "R00147",
+    "date": "2026-01-16",
+    "supplier": "ABC Traders",
+    "movement": "out",
+    "quantity": 300,
+    "stock_after": 5150
+  },
+  {
+    "record_id": "R00148",
+    "date": "2026-05-30",
+    "supplier": "Meridian Supplies",
+    "movement": "out",
+    "quantity": 300,
+    "stock_after": 4850
+  },
+  {
+    "record_id": "R00149",
+    "date": "2026-01-02",
+    "supplier": "Global Warehouse",
+    "movement": "out",
+    "quantity": 300,
+    "stock_after": 4550
+  },
+  {
+    "record_id": "R00150",
+    "date": "2026-04-18",
+    "supplier": "Prime Logistics",
+    "movement": "in",
+    "quantity": 300,
+    "stock_after": 4850
+  },
+  {
+    "record_id": "R00151",
+    "date": "2026-02-26",
+    "supplier": "Global Warehouse",
+    "movement": "out",
+    "quantity": 300,
+    "stock_after": 4550
+  },
+  {
+    "record_id": "R00152",
+    "date": "2026-01-08",
+    "supplier": "Tech Parts Ltd",
+    "movement": "out",
+    "quantity": 500,
+    "stock_after": 4050
+  },
+  {
+    "record_id": "R00153",
+    "date": "2026-06-23",
+    "supplier": "Tech Parts Ltd",
+    "movement": "in",
+    "quantity": 300,
+    "stock_after": 4350
+  },
+  {
+    "record_id": "R00154",
+    "date": "2026-02-02",
+    "supplier": "Prime Logistics",
+    "movement": "in",
+    "quantity": 300,
+    "stock_after": 4650
+  },
+  {
+    "record_id": "R00155",
+    "date": "2026-06-01",
+    "supplier": "Prime Logistics",
+    "movement": "in",
+    "quantity": 50,
+    "stock_after": 4700
+  },
+  {
+    "record_id": "R00156",
+    "date": "2026-06-14",
+    "supplier": "Tech Parts Ltd",
+    "movement": "in",
+    "quantity": 300,
+    "stock_after": 5000
+  },
+  {
+    "record_id": "R00157",
+    "date": "2026-02-16",
+    "supplier": "Meridian Supplies",
+    "movement": "out",
+    "quantity": 300,
+    "stock_after": 4700
+  },
+  {
+    "record_id": "R00158",
+    "date": "2026-03-25",
+    "supplier": "ABC Traders",
+    "movement": "out",
+    "quantity": 200,
+    "stock_after": 4500
+  },
+  {
+    "record_id": "R00159",
+    "date": "2026-03-28",
+    "supplier": "Tech Parts Ltd",
+    "movement": "out",
+    "quantity": 300,
+    "stock_after": 4200
+  },
+  {
+    "record_id": "R00160",
+    "date": "2026-03-06",
+    "supplier": "Meridian Supplies",
+    "movement": "out",
+    "quantity": 50,
+    "stock_after": 4150
+  },
+  {
+    "record_id": "R00161",
+    "date": "2026-05-19",
+    "supplier": "Meridian Supplies",
+    "movement": "out",
+    "quantity": 100,
+    "stock_after": 4050
+  },
+  {
+    "record_id": "R00162",
+    "date": "2026-06-16",
+    "supplier": "Meridian Supplies",
+    "movement": "in",
+    "quantity": 50,
+    "stock_after": 4100
+  },
+  {
+    "record_id": "R00163",
+    "date": "2026-03-05",
+    "supplier": "ABC Traders",
+    "movement": "in",
+    "quantity": 450,
+    "stock_after": 4550
+  },
+  {
+    "record_id": "R00164",
+    "date": "2026-02-09",
+    "supplier": "ABC Traders",
+    "movement": "in",
+    "quantity": 300,
+    "stock_after": 4850
+  },
+  {
+    "record_id": "R00165",
+    "date": "2026-06-21",
+    "supplier": "Meridian Supplies",
+    "movement": "in",
+    "quantity": 300,
+    "stock_after": 5150
+  },
+  {
+    "record_id": "R00166",
+    "date": "2026-06-29",
+    "supplier": "Global Warehouse",
+    "movement": "out",
+    "quantity": 100,
+    "stock_after": 5050
+  },
+  {
+    "record_id": "R00167",
+    "date": "2026-06-05",
+    "supplier": "Prime Logistics",
+    "movement": "in",
+    "quantity": 100,
+    "stock_after": 5150
+  },
+  {
+    "record_id": "R00168",
+    "date": "2026-03-21",
+    "supplier": "Meridian Supplies",
+    "movement": "in",
+    "quantity": 200,
+    "stock_after": 5350
+  },
+  {
+    "record_id": "R00169",
+    "date": "2026-05-28",
+    "supplier": "Tech Parts Ltd",
+    "movement": "out",
+    "quantity": 500,
+    "stock_after": 4850
+  },
+  {
+    "record_id": "R00170",
+    "date": "2026-02-20",
+    "supplier": "Meridian Supplies",
+    "movement": "in",
+    "quantity": 50,
+    "stock_after": 4900
+  },
+  {
+    "record_id": "R00171",
+    "date": "2026-06-28",
+    "supplier": "Global Warehouse",
+    "movement": "in",
+    "quantity": 450,
+    "stock_after": 5350
+  },
+  {
+    "record_id": "R00172",
+    "date": "2026-01-11",
+    "supplier": "Global Warehouse",
+    "movement": "out",
+    "quantity": 500,
+    "stock_after": 4850
+  },
+  {
+    "record_id": "R00173",
+    "date": "2026-04-05",
+    "supplier": "Meridian Supplies",
+    "movement": "out",
+    "quantity": 50,
+    "stock_after": 4800
+  },
+  {
+    "record_id": "R00174",
+    "date": "2026-04-18",
+    "supplier": "Tech Parts Ltd",
+    "movement": "in",
+    "quantity": 300,
+    "stock_after": 5100
+  },
+  {
+    "record_id": "R00175",
+    "date": "2026-04-03",
+    "supplier": "Tech Parts Ltd",
+    "movement": "in",
+    "quantity": 300,
+    "stock_after": 5400
+  },
+  {
+    "record_id": "R00176",
+    "date": "2026-02-15",
+    "supplier": "Prime Logistics",
+    "movement": "out",
+    "quantity": 450,
+    "stock_after": 4950
+  },
+  {
+    "record_id": "R00177",
+    "date": "2026-05-18",
+    "supplier": "Tech Parts Ltd",
+    "movement": "out",
+    "quantity": 300,
+    "stock_after": 4650
+  },
+  {
+    "record_id": "R00178",
+    "date": "2026-06-01",
+    "supplier": "Global Warehouse",
+    "movement": "out",
+    "quantity": 100,
+    "stock_after": 4550
+  },
+  {
+    "record_id": "R00179",
+    "date": "2026-01-23",
+    "supplier": "Global Warehouse",
+    "movement": "out",
+    "quantity": 100,
+    "stock_after": 4450
+  },
+  {
+    "record_id": "R00180",
+    "date": "2026-04-29",
+    "supplier": "Prime Logistics",
+    "movement": "out",
+    "quantity": 200,
+    "stock_after": 4250
+  },
+  {
+    "record_id": "R00181",
+    "date": "2026-01-08",
+    "supplier": "Tech Parts Ltd",
+    "movement": "out",
+    "quantity": 100,
+    "stock_after": 4150
+  },
+  {
+    "record_id": "R00182",
+    "date": "2026-05-05",
+    "supplier": "ABC Traders",
+    "movement": "out",
+    "quantity": 200,
+    "stock_after": 3950
+  },
+  {
+    "record_id": "R00183",
+    "date": "2026-03-29",
+    "supplier": "Global Warehouse",
+    "movement": "out",
+    "quantity": 450,
+    "stock_after": 3500
+  },
+  {
+    "record_id": "R00184",
+    "date": "2026-01-03",
+    "supplier": "Prime Logistics",
+    "movement": "in",
+    "quantity": 50,
+    "stock_after": 3550
+  },
+  {
+    "record_id": "R00185",
+    "date": "2026-03-03",
+    "supplier": "Tech Parts Ltd",
+    "movement": "out",
+    "quantity": 450,
+    "stock_after": 3100
+  },
+  {
+    "record_id": "R00186",
+    "date": "2026-03-03",
+    "supplier": "Tech Parts Ltd",
+    "movement": "out",
+    "quantity": 300,
+    "stock_after": 2800
+  },
+  {
+    "record_id": "R00187",
+    "date": "2026-01-05",
+    "supplier": "Meridian Supplies",
+    "movement": "out",
+    "quantity": 100,
+    "stock_after": 2700
+  },
+  {
+    "record_id": "R00188",
+    "date": "2026-04-14",
+    "supplier": "ABC Traders",
+    "movement": "out",
+    "quantity": 500,
+    "stock_after": 2200
+  },
+  {
+    "record_id": "R00189",
+    "date": "2026-05-29",
+    "supplier": "Global Warehouse",
+    "movement": "out",
+    "quantity": 450,
+    "stock_after": 1750
+  },
+  {
+    "record_id": "R00190",
+    "date": "2026-05-16",
+    "supplier": "Global Warehouse",
+    "movement": "out",
+    "quantity": 500,
+    "stock_after": 1250
+  },
+  {
+    "record_id": "R00191",
+    "date": "2026-05-21",
+    "supplier": "Global Warehouse",
+    "movement": "out",
+    "quantity": 500,
+    "stock_after": 750
+  },
+  {
+    "record_id": "R00192",
+    "date": "2026-04-27",
+    "supplier": "Global Warehouse",
+    "movement": "out",
+    "quantity": 200,
+    "stock_after": 550
+  },
+  {
+    "record_id": "R00193",
+    "date": "2026-03-01",
+    "supplier": "Meridian Supplies",
+    "movement": "in",
+    "quantity": 200,
+    "stock_after": 750
+  },
+  {
+    "record_id": "R00194",
+    "date": "2026-01-31",
+    "supplier": "Prime Logistics",
+    "movement": "in",
+    "quantity": 100,
+    "stock_after": 850
+  },
+  {
+    "record_id": "R00195",
+    "date": "2026-02-25",
+    "supplier": "Tech Parts Ltd",
+    "movement": "out",
+    "quantity": 500,
+    "stock_after": 350
+  },
+  {
+    "record_id": "R00196",
+    "date": "2026-05-31",
+    "supplier": "Prime Logistics",
+    "movement": "out",
+    "quantity": 50,
+    "stock_after": 300
+  },
+  {
+    "record_id": "R00197",
+    "date": "2026-02-19",
+    "supplier": "Global Warehouse",
+    "movement": "in",
+    "quantity": 200,
+    "stock_after": 500
+  },
+  {
+    "record_id": "R00198",
+    "date": "2026-02-15",
+    "supplier": "Global Warehouse",
+    "movement": "in",
+    "quantity": 500,
+    "stock_after": 1000
+  },
+  {
+    "record_id": "R00199",
+    "date": "2026-05-17",
+    "supplier": "ABC Traders",
+    "movement": "out",
+    "quantity": 50,
+    "stock_after": 950
+  },
+  {
+    "record_id": "R00200",
+    "date": "2026-01-14",
+    "supplier": "Prime Logistics",
+    "movement": "out",
+    "quantity": 500,
+    "stock_after": 450
+  },
+  {
+    "record_id": "R00201",
+    "date": "2026-02-02",
+    "supplier": "Tech Parts Ltd",
+    "movement": "in",
+    "quantity": 50,
+    "stock_after": 500
+  },
+  {
+    "record_id": "R00202",
+    "date": "2026-05-27",
+    "supplier": "Global Warehouse",
+    "movement": "out",
+    "quantity": 300,
+    "stock_after": 200
+  },
+  {
+    "record_id": "R00203",
+    "date": "2026-04-23",
+    "supplier": "Global Warehouse",
+    "movement": "in",
+    "quantity": 50,
+    "stock_after": 250
+  },
+  {
+    "record_id": "R00204",
+    "date": "2026-03-06",
+    "supplier": "Tech Parts Ltd",
+    "movement": "in",
+    "quantity": 50,
+    "stock_after": 300
+  },
+  {
+    "record_id": "R00205",
+    "date": "2026-04-13",
+    "supplier": "Tech Parts Ltd",
+    "movement": "in",
+    "quantity": 450,
+    "stock_after": 750
+  },
+  {
+    "record_id": "R00206",
+    "date": "2026-06-11",
+    "supplier": "Meridian Supplies",
+    "movement": "in",
+    "quantity": 100,
+    "stock_after": 850
+  },
+  {
+    "record_id": "R00207",
+    "date": "2026-05-25",
+    "supplier": "Global Warehouse",
+    "movement": "in",
+    "quantity": 100,
+    "stock_after": 950
+  },
+  {
+    "record_id": "R00208",
+    "date": "2026-01-31",
+    "supplier": "Prime Logistics",
+    "movement": "out",
+    "quantity": 450,
+    "stock_after": 500
+  },
+  {
+    "record_id": "R00209",
+    "date": "2026-06-02",
+    "supplier": "Prime Logistics",
+    "movement": "in",
+    "quantity": 450,
+    "stock_after": 950
+  },
+  {
+    "record_id": "R00210",
+    "date": "2026-04-08",
+    "supplier": "Tech Parts Ltd",
+    "movement": "out",
+    "quantity": 200,
+    "stock_after": 750
+  },
+  {
+    "record_id": "R00211",
+    "date": "2026-05-31",
+    "supplier": "Tech Parts Ltd",
+    "movement": "out",
+    "quantity": 450,
+    "stock_after": 300
+  },
+  {
+    "record_id": "R00212",
+    "date": "2026-06-08",
+    "supplier": "Meridian Supplies",
+    "movement": "in",
+    "quantity": 100,
+    "stock_after": 400
+  },
+  {
+    "record_id": "R00213",
+    "date": "2026-06-10",
+    "supplier": "ABC Traders",
+    "movement": "in",
+    "quantity": 500,
+    "stock_after": 900
+  },
+  {
+    "record_id": "R00214",
+    "date": "2026-01-21",
+    "supplier": "ABC Traders",
+    "movement": "in",
+    "quantity": 100,
+    "stock_after": 1000
+  },
+  {
+    "record_id": "R00215",
+    "date": "2026-05-22",
+    "supplier": "Meridian Supplies",
+    "movement": "in",
+    "quantity": 50,
+    "stock_after": 1050
+  },
+  {
+    "record_id": "R00216",
+    "date": "2026-04-15",
+    "supplier": "Tech Parts Ltd",
+    "movement": "out",
+    "quantity": 200,
+    "stock_after": 850
+  },
+  {
+    "record_id": "R00217",
+    "date": "2026-01-09",
+    "supplier": "ABC Traders",
+    "movement": "out",
+    "quantity": 500,
+    "stock_after": 350
+  },
+  {
+    "record_id": "R00218",
+    "date": "2026-03-14",
+    "supplier": "Tech Parts Ltd",
+    "movement": "in",
+    "quantity": 500,
+    "stock_after": 850
+  },
+  {
+    "record_id": "R00219",
+    "date": "2026-03-01",
+    "supplier": "Global Warehouse",
+    "movement": "in",
+    "quantity": 300,
+    "stock_after": 1150
+  },
+  {
+    "record_id": "R00220",
+    "date": "2026-01-30",
+    "supplier": "Prime Logistics",
+    "movement": "in",
+    "quantity": 500,
+    "stock_after": 1650
+  },
+  {
+    "record_id": "R00221",
+    "date": "2026-02-08",
+    "supplier": "Global Warehouse",
+    "movement": "in",
+    "quantity": 50,
+    "stock_after": 1700
+  },
+  {
+    "record_id": "R00222",
+    "date": "2026-01-16",
+    "supplier": "ABC Traders",
+    "movement": "out",
+    "quantity": 450,
+    "stock_after": 1250
+  },
+  {
+    "record_id": "R00223",
+    "date": "2026-05-26",
+    "supplier": "Global Warehouse",
+    "movement": "out",
+    "quantity": 50,
+    "stock_after": 1200
+  },
+  {
+    "record_id": "R00224",
+    "date": "2026-04-30",
+    "supplier": "Global Warehouse",
+    "movement": "out",
+    "quantity": 200,
+    "stock_after": 1000
+  },
+  {
+    "record_id": "R00225",
+    "date": "2026-05-09",
+    "supplier": "Prime Logistics",
+    "movement": "out",
+    "quantity": 300,
+    "stock_after": 700
+  },
+  {
+    "record_id": "R00226",
+    "date": "2026-01-21",
+    "supplier": "Prime Logistics",
+    "movement": "in",
+    "quantity": 300,
+    "stock_after": 1000
+  },
+  {
+    "record_id": "R00227",
+    "date": "2026-03-24",
+    "supplier": "Prime Logistics",
+    "movement": "out",
+    "quantity": 50,
+    "stock_after": 950
+  },
+  {
+    "record_id": "R00228",
+    "date": "2026-01-24",
+    "supplier": "ABC Traders",
+    "movement": "in",
+    "quantity": 500,
+    "stock_after": 1450
+  },
+  {
+    "record_id": "R00229",
+    "date": "2026-03-10",
+    "supplier": "Prime Logistics",
+    "movement": "in",
+    "quantity": 100,
+    "stock_after": 1550
+  },
+  {
+    "record_id": "R00230",
+    "date": "2026-05-01",
+    "supplier": "Prime Logistics",
+    "movement": "out",
+    "quantity": 200,
+    "stock_after": 1350
+  },
+  {
+    "record_id": "R00231",
+    "date": "2026-02-16",
+    "supplier": "Prime Logistics",
+    "movement": "out",
+    "quantity": 500,
+    "stock_after": 850
+  },
+  {
+    "record_id": "R00232",
+    "date": "2026-05-06",
+    "supplier": "Meridian Supplies",
+    "movement": "out",
+    "quantity": 200,
+    "stock_after": 650
+  },
+  {
+    "record_id": "R00233",
+    "date": "2026-04-15",
+    "supplier": "Global Warehouse",
+    "movement": "out",
+    "quantity": 500,
+    "stock_after": 150
+  },
+  {
+    "record_id": "R00234",
+    "date": "2026-01-27",
+    "supplier": "ABC Traders",
+    "movement": "in",
+    "quantity": 300,
+    "stock_after": 450
+  },
+  {
+    "record_id": "R00235",
+    "date": "2026-06-27",
+    "supplier": "Tech Parts Ltd",
+    "movement": "in",
+    "quantity": 500,
+    "stock_after": 950
+  },
+  {
+    "record_id": "R00236",
+    "date": "2026-04-13",
+    "supplier": "Prime Logistics",
+    "movement": "in",
+    "quantity": 300,
+    "stock_after": 1250
+  },
+  {
+    "record_id": "R00237",
+    "date": "2026-01-23",
+    "supplier": "Global Warehouse",
+    "movement": "out",
+    "quantity": 200,
+    "stock_after": 1050
+  },
+  {
+    "record_id": "R00238",
+    "date": "2026-01-30",
+    "supplier": "Tech Parts Ltd",
+    "movement": "in",
+    "quantity": 500,
+    "stock_after": 1550
+  },
+  {
+    "record_id": "R00239",
+    "date": "2026-05-19",
+    "supplier": "Tech Parts Ltd",
+    "movement": "out",
+    "quantity": 50,
+    "stock_after": 1500
+  },
+  {
+    "record_id": "R00240",
+    "date": "2026-02-18",
+    "supplier": "Prime Logistics",
+    "movement": "out",
+    "quantity": 450,
+    "stock_after": 1050
+  },
+  {
+    "record_id": "R00241",
+    "date": "2026-05-08",
+    "supplier": "Tech Parts Ltd",
+    "movement": "in",
+    "quantity": 100,
+    "stock_after": 1150
+  },
+  {
+    "record_id": "R00242",
+    "date": "2026-03-10",
+    "supplier": "Prime Logistics",
+    "movement": "in",
+    "quantity": 200,
+    "stock_after": 1350
+  },
+  {
+    "record_id": "R00243",
+    "date": "2026-04-23",
+    "supplier": "Tech Parts Ltd",
+    "movement": "in",
+    "quantity": 50,
+    "stock_after": 1400
+  },
+  {
+    "record_id": "R00244",
+    "date": "2026-06-11",
+    "supplier": "Prime Logistics",
+    "movement": "in",
+    "quantity": 500,
+    "stock_after": 1900
+  },
+  {
+    "record_id": "R00245",
+    "date": "2026-02-10",
+    "supplier": "Global Warehouse",
+    "movement": "in",
+    "quantity": 450,
+    "stock_after": 2350
+  },
+  {
+    "record_id": "R00246",
+    "date": "2026-04-15",
+    "supplier": "Meridian Supplies",
+    "movement": "in",
+    "quantity": 50,
+    "stock_after": 2400
+  },
+  {
+    "record_id": "R00247",
+    "date": "2026-04-29",
+    "supplier": "Meridian Supplies",
+    "movement": "in",
+    "quantity": 300,
+    "stock_after": 2700
+  },
+  {
+    "record_id": "R00248",
+    "date": "2026-03-16",
+    "supplier": "Prime Logistics",
+    "movement": "out",
+    "quantity": 300,
+    "stock_after": 2400
+  },
+  {
+    "record_id": "R00249",
+    "date": "2026-05-04",
+    "supplier": "Tech Parts Ltd",
+    "movement": "in",
+    "quantity": 300,
+    "stock_after": 2700
+  },
+  {
+    "record_id": "R00250",
+    "date": "2026-05-22",
+    "supplier": "ABC Traders",
+    "movement": "out",
+    "quantity": 100,
+    "stock_after": 2600
+  },
+  {
+    "record_id": "R00251",
+    "date": "2026-06-03",
+    "supplier": "Prime Logistics",
+    "movement": "in",
+    "quantity": 50,
+    "stock_after": 2650
+  },
+  {
+    "record_id": "R00252",
+    "date": "2026-03-12",
+    "supplier": "Tech Parts Ltd",
+    "movement": "out",
+    "quantity": 450,
+    "stock_after": 2200
+  },
+  {
+    "record_id": "R00253",
+    "date": "2026-03-10",
+    "supplier": "Meridian Supplies",
+    "movement": "out",
+    "quantity": 500,
+    "stock_after": 1700
+  },
+  {
+    "record_id": "R00254",
+    "date": "2026-03-18",
+    "supplier": "Prime Logistics",
+    "movement": "out",
+    "quantity": 100,
+    "stock_after": 1600
+  },
+  {
+    "record_id": "R00255",
+    "date": "2026-04-25",
+    "supplier": "Prime Logistics",
+    "movement": "out",
+    "quantity": 200,
+    "stock_after": 1400
+  },
+  {
+    "record_id": "R00256",
+    "date": "2026-03-27",
+    "supplier": "Prime Logistics",
+    "movement": "out",
+    "quantity": 300,
+    "stock_after": 1100
+  },
+  {
+    "record_id": "R00257",
+    "date": "2026-03-24",
+    "supplier": "ABC Traders",
+    "movement": "in",
+    "quantity": 450,
+    "stock_after": 1550
+  },
+  {
+    "record_id": "R00258",
+    "date": "2026-04-09",
+    "supplier": "ABC Traders",
+    "movement": "out",
+    "quantity": 50,
+    "stock_after": 1500
+  },
+  {
+    "record_id": "R00259",
+    "date": "2026-03-23",
+    "supplier": "Tech Parts Ltd",
+    "movement": "out",
+    "quantity": 300,
+    "stock_after": 1200
+  },
+  {
+    "record_id": "R00260",
+    "date": "2026-06-19",
+    "supplier": "ABC Traders",
+    "movement": "out",
+    "quantity": 50,
+    "stock_after": 1150
+  },
+  {
+    "record_id": "R00261",
+    "date": "2026-02-02",
+    "supplier": "Prime Logistics",
+    "movement": "out",
+    "quantity": 50,
+    "stock_after": 1100
+  },
+  {
+    "record_id": "R00262",
+    "date": "2026-04-23",
+    "supplier": "Meridian Supplies",
+    "movement": "out",
+    "quantity": 50,
+    "stock_after": 1050
+  },
+  {
+    "record_id": "R00263",
+    "date": "2026-02-06",
+    "supplier": "Tech Parts Ltd",
+    "movement": "in",
+    "quantity": 50,
+    "stock_after": 1100
+  },
+  {
+    "record_id": "R00264",
+    "date": "2026-05-01",
+    "supplier": "Global Warehouse",
+    "movement": "out",
+    "quantity": 450,
+    "stock_after": 650
+  },
+  {
+    "record_id": "R00265",
+    "date": "2026-06-27",
+    "supplier": "Tech Parts Ltd",
+    "movement": "in",
+    "quantity": 200,
+    "stock_after": 850
+  },
+  {
+    "record_id": "R00266",
+    "date": "2026-06-22",
+    "supplier": "Prime Logistics",
+    "movement": "out",
+    "quantity": 200,
+    "stock_after": 650
+  },
+  {
+    "record_id": "R00267",
+    "date": "2026-06-10",
+    "supplier": "Tech Parts Ltd",
+    "movement": "in",
+    "quantity": 450,
+    "stock_after": 1100
+  },
+  {
+    "record_id": "R00268",
+    "date": "2026-01-18",
+    "supplier": "ABC Traders",
+    "movement": "out",
+    "quantity": 100,
+    "stock_after": 1000
+  },
+  {
+    "record_id": "R00269",
+    "date": "2026-01-24",
+    "supplier": "Tech Parts Ltd",
+    "movement": "in",
+    "quantity": 500,
+    "stock_after": 1500
+  },
+  {
+    "record_id": "R00270",
+    "date": "2026-06-30",
+    "supplier": "Meridian Supplies",
+    "movement": "out",
+    "quantity": 100,
+    "stock_after": 1400
+  },
+  {
+    "record_id": "R00271",
+    "date": "2026-06-27",
+    "supplier": "Global Warehouse",
+    "movement": "in",
+    "quantity": 50,
+    "stock_after": 1450
+  },
+  {
+    "record_id": "R00272",
+    "date": "2026-03-25",
+    "supplier": "Meridian Supplies",
+    "movement": "out",
+    "quantity": 200,
+    "stock_after": 1250
+  },
+  {
+    "record_id": "R00273",
+    "date": "2026-04-06",
+    "supplier": "Tech Parts Ltd",
+    "movement": "in",
+    "quantity": 100,
+    "stock_after": 1350
+  },
+  {
+    "record_id": "R00274",
+    "date": "2026-05-16",
+    "supplier": "Tech Parts Ltd",
+    "movement": "in",
+    "quantity": 100,
+    "stock_after": 1450
+  },
+  {
+    "record_id": "R00275",
+    "date": "2026-02-14",
+    "supplier": "Meridian Supplies",
+    "movement": "out",
+    "quantity": 450,
+    "stock_after": 1000
+  },
+  {
+    "record_id": "R00276",
+    "date": "2026-06-24",
+    "supplier": "ABC Traders",
+    "movement": "out",
+    "quantity": 450,
+    "stock_after": 550
+  },
+  {
+    "record_id": "R00277",
+    "date": "2026-02-06",
+    "supplier": "ABC Traders",
+    "movement": "out",
+    "quantity": 500,
+    "stock_after": 50
+  },
+  {
+    "record_id": "R00278",
+    "date": "2026-03-07",
+    "supplier": "Tech Parts Ltd",
+    "movement": "in",
+    "quantity": 500,
+    "stock_after": 550
+  },
+  {
+    "record_id": "R00279",
+    "date": "2026-01-03",
+    "supplier": "Tech Parts Ltd",
+    "movement": "out",
+    "quantity": 500,
+    "stock_after": 50
+  },
+  {
+    "record_id": "R00280",
+    "date": "2026-05-20",
+    "supplier": "ABC Traders",
+    "movement": "in",
+    "quantity": 300,
+    "stock_after": 350
+  },
+  {
+    "record_id": "R00281",
+    "date": "2026-03-30",
+    "supplier": "Prime Logistics",
+    "movement": "in",
+    "quantity": 500,
+    "stock_after": 850
+  },
+  {
+    "record_id": "R00282",
+    "date": "2026-04-19",
+    "supplier": "Global Warehouse",
+    "movement": "out",
+    "quantity": 200,
+    "stock_after": 650
+  },
+  {
+    "record_id": "R00283",
+    "date": "2026-02-20",
+    "supplier": "Tech Parts Ltd",
+    "movement": "out",
+    "quantity": 50,
+    "stock_after": 600
+  },
+  {
+    "record_id": "R00284",
+    "date": "2026-03-02",
+    "supplier": "Tech Parts Ltd",
+    "movement": "out",
+    "quantity": 450,
+    "stock_after": 150
+  },
+  {
+    "record_id": "R00285",
+    "date": "2026-03-17",
+    "supplier": "Global Warehouse",
+    "movement": "in",
+    "quantity": 500,
+    "stock_after": 650
+  },
+  {
+    "record_id": "R00286",
+    "date": "2026-04-12",
+    "supplier": "Global Warehouse",
+    "movement": "in",
+    "quantity": 450,
+    "stock_after": 1100
+  },
+  {
+    "record_id": "R00287",
+    "date": "2026-06-25",
+    "supplier": "Meridian Supplies",
+    "movement": "out",
+    "quantity": 200,
+    "stock_after": 900
+  },
+  {
+    "record_id": "R00288",
+    "date": "2026-02-28",
+    "supplier": "Prime Logistics",
+    "movement": "out",
+    "quantity": 100,
+    "stock_after": 800
+  },
+  {
+    "record_id": "R00289",
+    "date": "2026-06-12",
+    "supplier": "ABC Traders",
+    "movement": "out",
+    "quantity": 500,
+    "stock_after": 300
+  },
+  {
+    "record_id": "R00290",
+    "date": "2026-06-18",
+    "supplier": "ABC Traders",
+    "movement": "in",
+    "quantity": 500,
+    "stock_after": 800
+  },
+  {
+    "record_id": "R00291",
+    "date": "2026-06-15",
+    "supplier": "Meridian Supplies",
+    "movement": "out",
+    "quantity": 300,
+    "stock_after": 500
+  },
+  {
+    "record_id": "R00292",
+    "date": "2026-01-09",
+    "supplier": "Prime Logistics",
+    "movement": "out",
+    "quantity": 500,
+    "stock_after": 0
+  },
+  {
+    "record_id": "R00293",
+    "date": "2026-02-03",
+    "supplier": "Meridian Supplies",
+    "movement": "in",
+    "quantity": 200,
+    "stock_after": 200
+  },
+  {
+    "record_id": "R00294",
+    "date": "2026-04-17",
+    "supplier": "ABC Traders",
+    "movement": "in",
+    "quantity": 100,
+    "stock_after": 300
+  },
+  {
+    "record_id": "R00295",
+    "date": "2026-05-19",
+    "supplier": "Global Warehouse",
+    "movement": "out",
+    "quantity": 100,
+    "stock_after": 200
+  },
+  {
+    "record_id": "R00296",
+    "date": "2026-03-07",
+    "supplier": "Tech Parts Ltd",
+    "movement": "in",
+    "quantity": 500,
+    "stock_after": 700
+  },
+  {
+    "record_id": "R00297",
+    "date": "2026-03-28",
+    "supplier": "Meridian Supplies",
+    "movement": "out",
+    "quantity": 50,
+    "stock_after": 650
+  },
+  {
+    "record_id": "R00298",
+    "date": "2026-02-06",
+    "supplier": "ABC Traders",
+    "movement": "out",
+    "quantity": 450,
+    "stock_after": 200
+  },
+  {
+    "record_id": "R00299",
+    "date": "2026-04-04",
+    "supplier": "Meridian Supplies",
+    "movement": "out",
+    "quantity": 50,
+    "stock_after": 150
+  },
+  {
+    "record_id": "R00300",
+    "date": "2026-03-09",
+    "supplier": "Prime Logistics",
+    "movement": "in",
+    "quantity": 300,
+    "stock_after": 450
+  },
+  {
+    "record_id": "R00301",
+    "date": "2026-04-05",
+    "supplier": "Global Warehouse",
+    "movement": "in",
+    "quantity": 500,
+    "stock_after": 950
+  },
+  {
+    "record_id": "R00302",
+    "date": "2026-04-06",
+    "supplier": "Meridian Supplies",
+    "movement": "in",
+    "quantity": 300,
+    "stock_after": 1250
+  },
+  {
+    "record_id": "R00303",
+    "date": "2026-01-07",
+    "supplier": "Prime Logistics",
+    "movement": "out",
+    "quantity": 450,
+    "stock_after": 800
+  },
+  {
+    "record_id": "R00304",
+    "date": "2026-02-26",
+    "supplier": "Meridian Supplies",
+    "movement": "out",
+    "quantity": 500,
+    "stock_after": 300
+  },
+  {
+    "record_id": "R00305",
+    "date": "2026-03-19",
+    "supplier": "Tech Parts Ltd",
+    "movement": "in",
+    "quantity": 100,
+    "stock_after": 400
+  },
+  {
+    "record_id": "R00306",
+    "date": "2026-01-12",
+    "supplier": "Meridian Supplies",
+    "movement": "out",
+    "quantity": 300,
+    "stock_after": 100
+  },
+  {
+    "record_id": "R00307",
+    "date": "2026-01-30",
+    "supplier": "Meridian Supplies",
+    "movement": "in",
+    "quantity": 450,
+    "stock_after": 550
+  },
+  {
+    "record_id": "R00308",
+    "date": "2026-02-04",
+    "supplier": "Tech Parts Ltd",
+    "movement": "out",
+    "quantity": 200,
+    "stock_after": 350
+  },
+  {
+    "record_id": "R00309",
+    "date": "2026-06-21",
+    "supplier": "Prime Logistics",
+    "movement": "in",
+    "quantity": 450,
+    "stock_after": 800
+  },
+  {
+    "record_id": "R00310",
+    "date": "2026-02-09",
+    "supplier": "Tech Parts Ltd",
+    "movement": "in",
+    "quantity": 300,
+    "stock_after": 1100
+  },
+  {
+    "record_id": "R00311",
+    "date": "2026-06-07",
+    "supplier": "Tech Parts Ltd",
+    "movement": "out",
+    "quantity": 50,
+    "stock_after": 1050
+  },
+  {
+    "record_id": "R00312",
+    "date": "2026-06-26",
+    "supplier": "Global Warehouse",
+    "movement": "in",
+    "quantity": 300,
+    "stock_after": 1350
+  },
+  {
+    "record_id": "R00313",
+    "date": "2026-04-24",
+    "supplier": "ABC Traders",
+    "movement": "out",
+    "quantity": 50,
+    "stock_after": 1300
+  },
+  {
+    "record_id": "R00314",
+    "date": "2026-06-25",
+    "supplier": "Global Warehouse",
+    "movement": "out",
+    "quantity": 50,
+    "stock_after": 1250
+  },
+  {
+    "record_id": "R00315",
+    "date": "2026-04-12",
+    "supplier": "Global Warehouse",
+    "movement": "in",
+    "quantity": 50,
+    "stock_after": 1300
+  },
+  {
+    "record_id": "R00316",
+    "date": "2026-04-27",
+    "supplier": "Meridian Supplies",
+    "movement": "in",
+    "quantity": 500,
+    "stock_after": 1800
+  },
+  {
+    "record_id": "R00317",
+    "date": "2026-06-13",
+    "supplier": "Prime Logistics",
+    "movement": "in",
+    "quantity": 50,
+    "stock_after": 1850
+  },
+  {
+    "record_id": "R00318",
+    "date": "2026-03-27",
+    "supplier": "ABC Traders",
+    "movement": "in",
+    "quantity": 450,
+    "stock_after": 2300
+  },
+  {
+    "record_id": "R00319",
+    "date": "2026-02-22",
+    "supplier": "Meridian Supplies",
+    "movement": "in",
+    "quantity": 450,
+    "stock_after": 2750
+  },
+  {
+    "record_id": "R00320",
+    "date": "2026-02-25",
+    "supplier": "ABC Traders",
+    "movement": "out",
+    "quantity": 100,
+    "stock_after": 2650
+  },
+  {
+    "record_id": "R00321",
+    "date": "2026-06-02",
+    "supplier": "Meridian Supplies",
+    "movement": "out",
+    "quantity": 100,
+    "stock_after": 2550
+  },
+  {
+    "record_id": "R00322",
+    "date": "2026-02-03",
+    "supplier": "Prime Logistics",
+    "movement": "out",
+    "quantity": 100,
+    "stock_after": 2450
+  },
+  {
+    "record_id": "R00323",
+    "date": "2026-01-29",
+    "supplier": "Meridian Supplies",
+    "movement": "in",
+    "quantity": 50,
+    "stock_after": 2500
+  },
+  {
+    "record_id": "R00324",
+    "date": "2026-04-02",
+    "supplier": "ABC Traders",
+    "movement": "out",
+    "quantity": 50,
+    "stock_after": 2450
+  },
+  {
+    "record_id": "R00325",
+    "date": "2026-02-14",
+    "supplier": "Global Warehouse",
+    "movement": "in",
+    "quantity": 100,
+    "stock_after": 2550
+  },
+  {
+    "record_id": "R00326",
+    "date": "2026-04-18",
+    "supplier": "Prime Logistics",
+    "movement": "in",
+    "quantity": 500,
+    "stock_after": 3050
+  },
+  {
+    "record_id": "R00327",
+    "date": "2026-01-17",
+    "supplier": "Tech Parts Ltd",
+    "movement": "out",
+    "quantity": 200,
+    "stock_after": 2850
+  },
+  {
+    "record_id": "R00328",
+    "date": "2026-05-12",
+    "supplier": "Prime Logistics",
+    "movement": "in",
+    "quantity": 300,
+    "stock_after": 3150
+  },
+  {
+    "record_id": "R00329",
+    "date": "2026-05-09",
+    "supplier": "ABC Traders",
+    "movement": "in",
+    "quantity": 500,
+    "stock_after": 3650
+  },
+  {
+    "record_id": "R00330",
+    "date": "2026-06-18",
+    "supplier": "Prime Logistics",
+    "movement": "out",
+    "quantity": 300,
+    "stock_after": 3350
+  },
+  {
+    "record_id": "R00331",
+    "date": "2026-06-14",
+    "supplier": "Meridian Supplies",
+    "movement": "in",
+    "quantity": 300,
+    "stock_after": 3650
+  },
+  {
+    "record_id": "R00332",
+    "date": "2026-04-13",
+    "supplier": "Tech Parts Ltd",
+    "movement": "in",
+    "quantity": 300,
+    "stock_after": 3950
+  },
+  {
+    "record_id": "R00333",
+    "date": "2026-04-24",
+    "supplier": "Meridian Supplies",
+    "movement": "in",
+    "quantity": 200,
+    "stock_after": 4150
+  },
+  {
+    "record_id": "R00334",
+    "date": "2026-06-05",
+    "supplier": "ABC Traders",
+    "movement": "in",
+    "quantity": 100,
+    "stock_after": 4250
+  },
+  {
+    "record_id": "R00335",
+    "date": "2026-03-12",
+    "supplier": "Prime Logistics",
+    "movement": "out",
+    "quantity": 300,
+    "stock_after": 3950
+  },
+  {
+    "record_id": "R00336",
+    "date": "2026-06-02",
+    "supplier": "Prime Logistics",
+    "movement": "out",
+    "quantity": 300,
+    "stock_after": 3650
+  },
+  {
+    "record_id": "R00337",
+    "date": "2026-05-10",
+    "supplier": "Prime Logistics",
+    "movement": "out",
+    "quantity": 50,
+    "stock_after": 3600
+  },
+  {
+    "record_id": "R00338",
+    "date": "2026-06-29",
+    "supplier": "Meridian Supplies",
+    "movement": "in",
+    "quantity": 300,
+    "stock_after": 3900
+  },
+  {
+    "record_id": "R00339",
+    "date": "2026-04-26",
+    "supplier": "ABC Traders",
+    "movement": "out",
+    "quantity": 200,
+    "stock_after": 3700
+  },
+  {
+    "record_id": "R00340",
+    "date": "2026-04-27",
+    "supplier": "Tech Parts Ltd",
+    "movement": "out",
+    "quantity": 500,
+    "stock_after": 3200
+  },
+  {
+    "record_id": "R00341",
+    "date": "2026-01-25",
+    "supplier": "Global Warehouse",
+    "movement": "out",
+    "quantity": 200,
+    "stock_after": 3000
+  },
+  {
+    "record_id": "R00342",
+    "date": "2026-06-20",
+    "supplier": "Global Warehouse",
+    "movement": "out",
+    "quantity": 100,
+    "stock_after": 2900
+  },
+  {
+    "record_id": "R00343",
+    "date": "2026-06-25",
+    "supplier": "Tech Parts Ltd",
+    "movement": "in",
+    "quantity": 50,
+    "stock_after": 2950
+  },
+  {
+    "record_id": "R00344",
+    "date": "2026-01-22",
+    "supplier": "Meridian Supplies",
+    "movement": "out",
+    "quantity": 50,
+    "stock_after": 2900
+  },
+  {
+    "record_id": "R00345",
+    "date": "2026-04-06",
+    "supplier": "ABC Traders",
+    "movement": "in",
+    "quantity": 450,
+    "stock_after": 3350
+  },
+  {
+    "record_id": "R00346",
+    "date": "2026-05-24",
+    "supplier": "Prime Logistics",
+    "movement": "out",
+    "quantity": 500,
+    "stock_after": 2850
+  },
+  {
+    "record_id": "R00347",
+    "date": "2026-02-01",
+    "supplier": "Tech Parts Ltd",
+    "movement": "out",
+    "quantity": 500,
+    "stock_after": 2350
+  },
+  {
+    "record_id": "R00348",
+    "date": "2026-04-19",
+    "supplier": "Meridian Supplies",
+    "movement": "out",
+    "quantity": 450,
+    "stock_after": 1900
+  },
+  {
+    "record_id": "R00349",
+    "date": "2026-03-21",
+    "supplier": "Global Warehouse",
+    "movement": "in",
+    "quantity": 450,
+    "stock_after": 2350
+  },
+  {
+    "record_id": "R00350",
+    "date": "2026-05-10",
+    "supplier": "ABC Traders",
+    "movement": "in",
+    "quantity": 500,
+    "stock_after": 2850
+  }
+]

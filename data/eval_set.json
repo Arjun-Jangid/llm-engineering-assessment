@@ -1,0 +1,602 @@
+[
+  {
+    "question": "What was the stock level after the 300-unit shipment from Prime Logistics on 2026-05-12?",
+    "answer": 3150,
+    "record_id": "R00328",
+    "type": "atomic"
+  },
+  {
+    "question": "What was the stock level after the 300-unit shipment from Meridian Supplies on 2026-06-17?",
+    "answer": 5300,
+    "record_id": "R00058",
+    "type": "atomic"
+  },
+  {
+    "question": "What was the stock level after the 500-unit shipment from Prime Logistics on 2026-01-21?",
+    "answer": 2100,
+    "record_id": "R00013",
+    "type": "atomic"
+  },
+  {
+    "question": "What was the stock level after the 300-unit shipment from ABC Traders on 2026-05-05?",
+    "answer": 5650,
+    "record_id": "R00141",
+    "type": "atomic"
+  },
+  {
+    "question": "What was the stock level after the 200-unit shipment from ABC Traders on 2026-05-02?",
+    "answer": 5900,
+    "record_id": "R00126",
+    "type": "atomic"
+  },
+  {
+    "question": "What was the stock level after the 50-unit shipment from ABC Traders on 2026-05-28?",
+    "answer": 6550,
+    "record_id": "R00115",
+    "type": "atomic"
+  },
+  {
+    "question": "What was the stock level after the 50-unit shipment from Prime Logistics on 2026-05-03?",
+    "answer": 5200,
+    "record_id": "R00072",
+    "type": "atomic"
+  },
+  {
+    "question": "What was the stock level after the 100-unit shipment from Global Warehouse on 2026-03-02?",
+    "answer": 4850,
+    "record_id": "R00053",
+    "type": "atomic"
+  },
+  {
+    "question": "What was the stock level after the 300-unit shipment from ABC Traders on 2026-05-20?",
+    "answer": 350,
+    "record_id": "R00280",
+    "type": "atomic"
+  },
+  {
+    "question": "What was the stock level after the 100-unit shipment from Prime Logistics on 2026-05-16?",
+    "answer": 4600,
+    "record_id": "R00045",
+    "type": "atomic"
+  },
+  {
+    "question": "What was the stock level after the 450-unit shipment from Prime Logistics on 2026-01-07?",
+    "answer": 800,
+    "record_id": "R00303",
+    "type": "atomic"
+  },
+  {
+    "question": "What was the stock level after the 500-unit shipment from ABC Traders on 2026-01-09?",
+    "answer": 350,
+    "record_id": "R00217",
+    "type": "atomic"
+  },
+  {
+    "question": "What was the stock level after the 100-unit shipment from Tech Parts Ltd on 2026-03-13?",
+    "answer": 3000,
+    "record_id": "R00017",
+    "type": "atomic"
+  },
+  {
+    "question": "What was the stock level after the 300-unit shipment from ABC Traders on 2026-01-21?",
+    "answer": 3100,
+    "record_id": "R00016",
+    "type": "atomic"
+  },
+  {
+    "question": "What was the stock level after the 100-unit shipment from Meridian Supplies on 2026-04-26?",
+    "answer": 3950,
+    "record_id": "R00048",
+    "type": "atomic"
+  },
+  {
+    "question": "What was the stock level after the 50-unit shipment from ABC Traders on 2026-03-08?",
+    "answer": 6500,
+    "record_id": "R00112",
+    "type": "atomic"
+  },
+  {
+    "question": "What was the stock level after the 100-unit shipment from Global Warehouse on 2026-06-28?",
+    "answer": 5650,
+    "record_id": "R00120",
+    "type": "atomic"
+  },
+  {
+    "question": "What was the stock level after the 300-unit shipment from Tech Parts Ltd on 2026-03-23?",
+    "answer": 1200,
+    "record_id": "R00259",
+    "type": "atomic"
+  },
+  {
+    "question": "What was the stock level after the 450-unit shipment from Prime Logistics on 2026-06-21?",
+    "answer": 800,
+    "record_id": "R00309",
+    "type": "atomic"
+  },
+  {
+    "question": "What was the stock level after the 500-unit shipment from Global Warehouse on 2026-06-08?",
+    "answer": 2600,
+    "record_id": "R00014",
+    "type": "atomic"
+  },
+  {
+    "question": "What was the stock level after the 100-unit shipment from Prime Logistics on 2026-02-28?",
+    "answer": 800,
+    "record_id": "R00288",
+    "type": "atomic"
+  },
+  {
+    "question": "What was the stock level after the 50-unit shipment from ABC Traders on 2026-02-11?",
+    "answer": 7250,
+    "record_id": "R00102",
+    "type": "atomic"
+  },
+  {
+    "question": "What was the stock level after the 100-unit shipment from Global Warehouse on 2026-06-20?",
+    "answer": 2900,
+    "record_id": "R00342",
+    "type": "atomic"
+  },
+  {
+    "question": "What was the stock level after the 50-unit shipment from Meridian Supplies on 2026-05-22?",
+    "answer": 1050,
+    "record_id": "R00215",
+    "type": "atomic"
+  },
+  {
+    "question": "What was the stock level after the 200-unit shipment from Prime Logistics on 2026-01-28?",
+    "answer": 6300,
+    "record_id": "R00113",
+    "type": "atomic"
+  },
+  {
+    "question": "What was the stock level after the 200-unit shipment from Prime Logistics on 2026-05-01?",
+    "answer": 1350,
+    "record_id": "R00230",
+    "type": "atomic"
+  },
+  {
+    "question": "What was the stock level after the 300-unit shipment from Meridian Supplies on 2026-04-06?",
+    "answer": 1250,
+    "record_id": "R00302",
+    "type": "atomic"
+  },
+  {
+    "question": "What was the stock level after the 100-unit shipment from Global Warehouse on 2026-03-27?",
+    "answer": 5950,
+    "record_id": "R00143",
+    "type": "atomic"
+  },
+  {
+    "question": "What was the stock level after the 50-unit shipment from Meridian Supplies on 2026-04-19?",
+    "answer": 2100,
+    "record_id": "R00004",
+    "type": "atomic"
+  },
+  {
+    "question": "What was the stock level after the 100-unit shipment from ABC Traders on 2026-05-18?",
+    "answer": 6250,
+    "record_id": "R00082",
+    "type": "atomic"
+  },
+  {
+    "question": "What was the stock level after the 200-unit shipment from ABC Traders on 2026-04-26?",
+    "answer": 3700,
+    "record_id": "R00339",
+    "type": "atomic"
+  },
+  {
+    "question": "What was the stock level after the 300-unit shipment from Tech Parts Ltd on 2026-04-03?",
+    "answer": 5400,
+    "record_id": "R00175",
+    "type": "atomic"
+  },
+  {
+    "question": "What was the stock level after the 50-unit shipment from Meridian Supplies on 2026-01-29?",
+    "answer": 2500,
+    "record_id": "R00323",
+    "type": "atomic"
+  },
+  {
+    "question": "What was the stock level after the 300-unit shipment from Meridian Supplies on 2026-03-22?",
+    "answer": 6300,
+    "record_id": "R00080",
+    "type": "atomic"
+  },
+  {
+    "question": "What was the stock level after the 50-unit shipment from Global Warehouse on 2026-05-18?",
+    "answer": 6550,
+    "record_id": "R00111",
+    "type": "atomic"
+  },
+  {
+    "question": "What was the stock level after the 50-unit shipment from Meridian Supplies on 2026-04-05?",
+    "answer": 4800,
+    "record_id": "R00173",
+    "type": "atomic"
+  },
+  {
+    "question": "What was the stock level after the 50-unit shipment from Tech Parts Ltd on 2026-06-25?",
+    "answer": 2950,
+    "record_id": "R00343",
+    "type": "atomic"
+  },
+  {
+    "question": "What was the stock level after the 300-unit shipment from Prime Logistics on 2026-06-02?",
+    "answer": 3650,
+    "record_id": "R00336",
+    "type": "atomic"
+  },
+  {
+    "question": "What was the stock level after the 500-unit shipment from Tech Parts Ltd on 2026-02-25?",
+    "answer": 350,
+    "record_id": "R00195",
+    "type": "atomic"
+  },
+  {
+    "question": "What was the stock level after the 50-unit shipment from ABC Traders on 2026-05-22?",
+    "answer": 4450,
+    "record_id": "R00050",
+    "type": "atomic"
+  },
+  {
+    "question": "What was the stock level after the 50-unit shipment from Prime Logistics on 2026-01-03?",
+    "answer": 3550,
+    "record_id": "R00184",
+    "type": "atomic"
+  },
+  {
+    "question": "What was the stock level after the 300-unit shipment from Tech Parts Ltd on 2026-05-18?",
+    "answer": 4650,
+    "record_id": "R00177",
+    "type": "atomic"
+  },
+  {
+    "question": "What was the stock level after the 100-unit shipment from Meridian Supplies on 2026-03-05?",
+    "answer": 7450,
+    "record_id": "R00136",
+    "type": "atomic"
+  },
+  {
+    "question": "What was the stock level after the 50-unit shipment from Tech Parts Ltd on 2026-03-22?",
+    "answer": 4150,
+    "record_id": "R00023",
+    "type": "atomic"
+  },
+  {
+    "question": "What was the stock level after the 300-unit shipment from Prime Logistics on 2026-04-13?",
+    "answer": 1250,
+    "record_id": "R00236",
+    "type": "atomic"
+  },
+  {
+    "question": "What was the stock level after the 450-unit shipment from Meridian Supplies on 2026-02-14?",
+    "answer": 1000,
+    "record_id": "R00275",
+    "type": "atomic"
+  },
+  {
+    "question": "What was the stock level after the 300-unit shipment from ABC Traders on 2026-03-02?",
+    "answer": 4300,
+    "record_id": "R00064",
+    "type": "atomic"
+  },
+  {
+    "question": "What was the stock level after the 100-unit shipment from Prime Logistics on 2026-01-31?",
+    "answer": 850,
+    "record_id": "R00194",
+    "type": "atomic"
+  },
+  {
+    "question": "What was the stock level after the 50-unit shipment from Global Warehouse on 2026-04-03?",
+    "answer": 4350,
+    "record_id": "R00041",
+    "type": "atomic"
+  },
+  {
+    "question": "What was the stock level after the 50-unit shipment from Tech Parts Ltd on 2026-02-20?",
+    "answer": 600,
+    "record_id": "R00283",
+    "type": "atomic"
+  },
+  {
+    "question": "What was the stock level after the 300-unit shipment from Global Warehouse on 2026-02-26?",
+    "answer": 4550,
+    "record_id": "R00151",
+    "type": "atomic"
+  },
+  {
+    "question": "What was the stock level after the 300-unit shipment from Tech Parts Ltd on 2026-03-03?",
+    "answer": 2800,
+    "record_id": "R00186",
+    "type": "atomic"
+  },
+  {
+    "question": "What was the stock level after the 500-unit shipment from Tech Parts Ltd on 2026-03-07?",
+    "answer": 700,
+    "record_id": "R00296",
+    "type": "atomic"
+  },
+  {
+    "question": "What was the stock level after the 500-unit shipment from Global Warehouse on 2026-01-11?",
+    "answer": 7650,
+    "record_id": "R00099",
+    "type": "atomic"
+  },
+  {
+    "question": "What was the stock level after the 500-unit shipment from Tech Parts Ltd on 2026-02-10?",
+    "answer": 3250,
+    "record_id": "R00036",
+    "type": "atomic"
+  },
+  {
+    "question": "What was the stock level after the 100-unit shipment from Prime Logistics on 2026-02-24?",
+    "answer": 4050,
+    "record_id": "R00024",
+    "type": "atomic"
+  },
+  {
+    "question": "What was the stock level after the 450-unit shipment from Meridian Supplies on 2026-04-21?",
+    "answer": 6300,
+    "record_id": "R00117",
+    "type": "atomic"
+  },
+  {
+    "question": "What was the stock level after the 300-unit shipment from Global Warehouse on 2026-01-02?",
+    "answer": 4550,
+    "record_id": "R00149",
+    "type": "atomic"
+  },
+  {
+    "question": "What was the stock level after the 50-unit shipment from ABC Traders on 2026-04-02?",
+    "answer": 2450,
+    "record_id": "R00324",
+    "type": "atomic"
+  },
+  {
+    "question": "What was the stock level after the 100-unit shipment from ABC Traders on 2026-06-05?",
+    "answer": 4250,
+    "record_id": "R00334",
+    "type": "atomic"
+  },
+  {
+    "question": "What was the stock level after the 450-unit shipment from Global Warehouse on 2026-01-09?",
+    "answer": 4950,
+    "record_id": "R00052",
+    "type": "atomic"
+  },
+  {
+    "question": "What was the stock level after the 300-unit shipment from Global Warehouse on 2026-06-26?",
+    "answer": 1350,
+    "record_id": "R00312",
+    "type": "atomic"
+  },
+  {
+    "question": "What was the stock level after the 450-unit shipment from ABC Traders on 2026-03-27?",
+    "answer": 2300,
+    "record_id": "R00318",
+    "type": "atomic"
+  },
+  {
+    "question": "What was the stock level after the 500-unit shipment from Global Warehouse on 2026-04-15?",
+    "answer": 150,
+    "record_id": "R00233",
+    "type": "atomic"
+  },
+  {
+    "question": "What was the stock level after the 100-unit shipment from Meridian Supplies on 2026-01-05?",
+    "answer": 2700,
+    "record_id": "R00187",
+    "type": "atomic"
+  },
+  {
+    "question": "What was the stock level after the 450-unit shipment from ABC Traders on 2026-03-14?",
+    "answer": 6000,
+    "record_id": "R00084",
+    "type": "atomic"
+  },
+  {
+    "question": "What was the stock level after the 500-unit shipment from Global Warehouse on 2026-05-16?",
+    "answer": 1250,
+    "record_id": "R00190",
+    "type": "atomic"
+  },
+  {
+    "question": "What was the stock level after the 200-unit shipment from ABC Traders on 2026-05-05?",
+    "answer": 3950,
+    "record_id": "R00182",
+    "type": "atomic"
+  },
+  {
+    "question": "What was the stock level after the 200-unit shipment from ABC Traders on 2026-06-18?",
+    "answer": 7200,
+    "record_id": "R00108",
+    "type": "atomic"
+  },
+  {
+    "question": "What was the stock level after the 300-unit shipment from Prime Logistics on 2026-04-29?",
+    "answer": 7150,
+    "record_id": "R00137",
+    "type": "atomic"
+  },
+  {
+    "question": "What was the stock level after the 450-unit shipment from Prime Logistics on 2026-03-09?",
+    "answer": 3700,
+    "record_id": "R00037",
+    "type": "atomic"
+  },
+  {
+    "question": "What was the stock level after the 200-unit shipment from ABC Traders on 2026-05-22?",
+    "answer": 6900,
+    "record_id": "R00088",
+    "type": "atomic"
+  },
+  {
+    "question": "What was the stock level after the 100-unit shipment from Tech Parts Ltd on 2026-05-16?",
+    "answer": 1450,
+    "record_id": "R00274",
+    "type": "atomic"
+  },
+  {
+    "question": "What was the stock level after the 500-unit shipment from Prime Logistics on 2026-05-24?",
+    "answer": 2850,
+    "record_id": "R00346",
+    "type": "atomic"
+  },
+  {
+    "question": "What was the stock level after the 500-unit shipment from Global Warehouse on 2026-03-17?",
+    "answer": 650,
+    "record_id": "R00285",
+    "type": "atomic"
+  },
+  {
+    "question": "What was the stock level after the 200-unit shipment from Global Warehouse on 2026-01-23?",
+    "answer": 1050,
+    "record_id": "R00237",
+    "type": "atomic"
+  },
+  {
+    "question": "What was the stock level after the 500-unit shipment from ABC Traders on 2026-06-12?",
+    "answer": 300,
+    "record_id": "R00289",
+    "type": "atomic"
+  },
+  {
+    "question": "What was the stock level after the 300-unit shipment from ABC Traders on 2026-04-25?",
+    "answer": 6400,
+    "record_id": "R00139",
+    "type": "atomic"
+  },
+  {
+    "question": "What was the stock level after the 500-unit shipment from Prime Logistics on 2026-04-18?",
+    "answer": 3050,
+    "record_id": "R00326",
+    "type": "atomic"
+  },
+  {
+    "question": "What was the stock level after the 100-unit shipment from Prime Logistics on 2026-06-05?",
+    "answer": 5150,
+    "record_id": "R00167",
+    "type": "atomic"
+  },
+  {
+    "question": "What was the stock level after the 50-unit shipment from ABC Traders on 2026-02-26?",
+    "answer": 2700,
+    "record_id": "R00029",
+    "type": "atomic"
+  },
+  {
+    "question": "What was the stock level after the 450-unit shipment from Meridian Supplies on 2026-03-22?",
+    "answer": 5850,
+    "record_id": "R00118",
+    "type": "atomic"
+  },
+  {
+    "question": "What was the stock level after the 300-unit shipment from Meridian Supplies on 2026-06-29?",
+    "answer": 3900,
+    "record_id": "R00338",
+    "type": "atomic"
+  },
+  {
+    "question": "What was the stock level after the 50-unit shipment from Meridian Supplies on 2026-06-16?",
+    "answer": 4100,
+    "record_id": "R00162",
+    "type": "atomic"
+  },
+  {
+    "question": "What was the stock level after the 100-unit shipment from Meridian Supplies on 2026-06-11?",
+    "answer": 850,
+    "record_id": "R00206",
+    "type": "atomic"
+  },
+  {
+    "question": "What was the stock level after the 450-unit shipment from Prime Logistics on 2026-06-06?",
+    "answer": 6700,
+    "record_id": "R00138",
+    "type": "atomic"
+  },
+  {
+    "question": "What was the stock level after the 500-unit shipment from Prime Logistics on 2026-01-30?",
+    "answer": 3050,
+    "record_id": "R00034",
+    "type": "atomic"
+  },
+  {
+    "question": "What was the stock level after the 200-unit shipment from Meridian Supplies on 2026-03-13?",
+    "answer": 7000,
+    "record_id": "R00109",
+    "type": "atomic"
+  },
+  {
+    "question": "What was the stock level after the 450-unit shipment from Tech Parts Ltd on 2026-06-10?",
+    "answer": 1100,
+    "record_id": "R00267",
+    "type": "atomic"
+  },
+  {
+    "question": "What was the stock level after the 50-unit shipment from Tech Parts Ltd on 2026-02-06?",
+    "answer": 1100,
+    "record_id": "R00263",
+    "type": "atomic"
+  },
+  {
+    "question": "What was the stock level after the 300-unit shipment from Prime Logistics on 2026-03-27?",
+    "answer": 1100,
+    "record_id": "R00256",
+    "type": "atomic"
+  },
+  {
+    "question": "What was the stock level after the 50-unit shipment from Global Warehouse on 2026-04-23?",
+    "answer": 250,
+    "record_id": "R00203",
+    "type": "atomic"
+  },
+  {
+    "question": "What was the stock level after the 500-unit shipment from Tech Parts Ltd on 2026-06-27?",
+    "answer": 950,
+    "record_id": "R00235",
+    "type": "atomic"
+  },
+  {
+    "question": "What was the stock level after the 300-unit shipment from Meridian Supplies on 2026-06-02?",
+    "answer": 5550,
+    "record_id": "R00074",
+    "type": "atomic"
+  },
+  {
+    "question": "What was the stock level after the 200-unit shipment from Tech Parts Ltd on 2026-02-04?",
+    "answer": 350,
+    "record_id": "R00308",
+    "type": "atomic"
+  },
+  {
+    "question": "What was the stock level after the 450-unit shipment from ABC Traders on 2026-02-06?",
+    "answer": 200,
+    "record_id": "R00298",
+    "type": "atomic"
+  },
+  {
+    "question": "What was the stock level after the 500-unit shipment from Meridian Supplies on 2026-02-26?",
+    "answer": 300,
+    "record_id": "R00304",
+    "type": "atomic"
+  },
+  {
+    "question": "What was the stock level after the 500-unit shipment from Global Warehouse on 2026-05-21?",
+    "answer": 750,
+    "record_id": "R00191",
+    "type": "atomic"
+  },
+  {
+    "question": "What was the stock level after the 500-unit shipment from ABC Traders on 2026-02-08?",
+    "answer": 5450,
+    "record_id": "R00144",
+    "type": "atomic"
+  },
+  {
+    "question": "What was the stock level after the 200-unit shipment from Tech Parts Ltd on 2026-06-27?",
+    "answer": 850,
+    "record_id": "R00265",
+    "type": "atomic"
+  }
+]
